@@ -1,0 +1,1644 @@
+/Users/mac/medcase/aws/aws-training/thoracic_coils/Batch 17/Thoracic-Coil-54ce1675/RadiologyReport.txt
+/Users/mac/medcase/aws/aws-training/thoracic_coils/Batch 17/Thoracic-Coil-4d5f9ecd/RadiologyReport.txt
+2026-01-31 10:50:07          0 Medcase/DBO-1675-Thoracic Coil/Batch 17/
+2026-01-31 10:48:24      23597 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic coil Batch 17 INV .xlsx
+2026-01-31 10:48:24     234612 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/100_CT.dcm
+2026-01-31 10:48:33     235522 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/101_CT.dcm
+2026-01-31 10:48:24     235774 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/102_CT.dcm
+2026-01-31 10:48:35     235492 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/103_CT.dcm
+2026-01-31 10:48:36     235984 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/104_CT.dcm
+2026-01-31 10:48:24     236088 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/105_CT.dcm
+2026-01-31 10:48:48     235310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/106_CT.dcm
+2026-01-31 10:48:24     235716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/107_CT.dcm
+2026-01-31 10:48:24     235200 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/108_CT.dcm
+2026-01-31 10:48:35     234794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/109_CT.dcm
+2026-01-31 10:48:34     211614 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/10_CT.dcm
+2026-01-31 10:48:24     235558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/110_CT.dcm
+2026-01-31 10:48:33     235946 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/111_CT.dcm
+2026-01-31 10:48:24     235524 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/112_CT.dcm
+2026-01-31 10:48:35     236324 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/113_CT.dcm
+2026-01-31 10:48:35     236786 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/114_CT.dcm
+2026-01-31 10:48:24     236528 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/115_CT.dcm
+2026-01-31 10:48:36     237164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/116_CT.dcm
+2026-01-31 10:48:24     237696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/117_CT.dcm
+2026-01-31 10:48:24     237190 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/118_CT.dcm
+2026-01-31 10:48:48     237670 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/119_CT.dcm
+2026-01-31 10:48:24     211880 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/11_CT.dcm
+2026-01-31 10:48:34     237566 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/120_CT.dcm
+2026-01-31 10:48:24     236818 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/121_CT.dcm
+2026-01-31 10:48:35     237100 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/122_CT.dcm
+2026-01-31 10:48:24     237698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/123_CT.dcm
+2026-01-31 10:48:24     237608 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/124_CT.dcm
+2026-01-31 10:48:33     238284 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/125_CT.dcm
+2026-01-31 10:48:24     239224 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/126_CT.dcm
+2026-01-31 10:48:35     238540 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/127_CT.dcm
+2026-01-31 10:48:36     239314 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/128_CT.dcm
+2026-01-31 10:48:24     238496 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/129_CT.dcm
+2026-01-31 10:48:48     211844 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/12_CT.dcm
+2026-01-31 10:48:34     237848 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/130_CT.dcm
+2026-01-31 10:48:24     238514 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/131_CT.dcm
+2026-01-31 10:48:35     238964 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/132_CT.dcm
+2026-01-31 10:48:24     238666 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/133_CT.dcm
+2026-01-31 10:48:24     239008 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/134_CT.dcm
+2026-01-31 10:48:33     239270 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/135_CT.dcm
+2026-01-31 10:48:24     238378 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/136_CT.dcm
+2026-01-31 10:48:35     238484 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/137_CT.dcm
+2026-01-31 10:48:36     238354 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/138_CT.dcm
+2026-01-31 10:48:24     237344 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/139_CT.dcm
+2026-01-31 10:48:24     211194 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/13_CT.dcm
+2026-01-31 10:48:48     237636 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/140_CT.dcm
+2026-01-31 10:48:24     238062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/141_CT.dcm
+2026-01-31 10:48:35     237712 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/142_CT.dcm
+2026-01-31 10:48:24     238604 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/143_CT.dcm
+2026-01-31 10:48:24     239000 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/144_CT.dcm
+2026-01-31 10:48:48     238826 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/145_CT.dcm
+2026-01-31 10:48:24     238922 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/146_CT.dcm
+2026-01-31 10:48:33     238724 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/147_CT.dcm
+2026-01-31 10:48:35     238158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/148_CT.dcm
+2026-01-31 10:48:24     238572 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/149_CT.dcm
+2026-01-31 10:48:24     211768 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/14_CT.dcm
+2026-01-31 10:48:37     238328 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/150_CT.dcm
+2026-01-31 10:48:24     237414 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/151_CT.dcm
+2026-01-31 10:48:35     238098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/152_CT.dcm
+2026-01-31 10:48:24     238252 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/153_CT.dcm
+2026-01-31 10:48:24     237840 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/154_CT.dcm
+2026-01-31 10:48:35     238616 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/155_CT.dcm
+2026-01-31 10:48:24     238848 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/156_CT.dcm
+2026-01-31 10:48:48     238258 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/157_CT.dcm
+2026-01-31 10:48:33     238804 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/158_CT.dcm
+2026-01-31 10:48:24     238828 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/159_CT.dcm
+2026-01-31 10:48:37     211560 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/15_CT.dcm
+2026-01-31 10:48:24     238626 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/160_CT.dcm
+2026-01-31 10:48:33     239308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/161_CT.dcm
+2026-01-31 10:48:24     239132 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/162_CT.dcm
+2026-01-31 10:48:35     238494 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/163_CT.dcm
+2026-01-31 10:48:36     238840 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/164_CT.dcm
+2026-01-31 10:48:24     238930 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/165_CT.dcm
+2026-01-31 10:48:35     238048 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/166_CT.dcm
+2026-01-31 10:48:24     238470 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/167_CT.dcm
+2026-01-31 10:48:24     238540 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/168_CT.dcm
+2026-01-31 10:48:33     237980 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/169_CT.dcm
+2026-01-31 10:48:24     211246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/16_CT.dcm
+2026-01-31 10:48:24     238294 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/170_CT.dcm
+2026-01-31 10:48:33     238440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/171_CT.dcm
+2026-01-31 10:48:24     238196 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/172_CT.dcm
+2026-01-31 10:48:35     238674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/173_CT.dcm
+2026-01-31 10:48:36     238496 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/174_CT.dcm
+2026-01-31 10:48:24     237924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/175_CT.dcm
+2026-01-31 10:48:37     238710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/176_CT.dcm
+2026-01-31 10:48:24     238656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/177_CT.dcm
+2026-01-31 10:48:24     238072 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/178_CT.dcm
+2026-01-31 10:48:36     238772 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/179_CT.dcm
+2026-01-31 10:48:33     212188 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/17_CT.dcm
+2026-01-31 10:48:37     238606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/180_CT.dcm
+2026-01-31 10:48:24     237798 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/181_CT.dcm
+2026-01-31 10:48:35     238186 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/182_CT.dcm
+2026-01-31 10:48:24     237962 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/183_CT.dcm
+2026-01-31 10:48:24     237560 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/184_CT.dcm
+2026-01-31 10:48:36     237636 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/185_CT.dcm
+2026-01-31 10:48:24     237242 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/186_CT.dcm
+2026-01-31 10:48:33     237078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/187_CT.dcm
+2026-01-31 10:48:37     237026 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/188_CT.dcm
+2026-01-31 10:48:24     237018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/189_CT.dcm
+2026-01-31 10:48:33     212910 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/18_CT.dcm
+2026-01-31 10:48:36     236604 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/190_CT.dcm
+2026-01-31 10:48:24     237268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/191_CT.dcm
+2026-01-31 10:48:36     237284 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/192_CT.dcm
+2026-01-31 10:48:24     236664 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/193_CT.dcm
+2026-01-31 10:48:24     237254 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/194_CT.dcm
+2026-01-31 10:48:35     237152 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/195_CT.dcm
+2026-01-31 10:48:24     236676 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/196_CT.dcm
+2026-01-31 10:48:34     236942 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/197_CT.dcm
+2026-01-31 10:48:36     236516 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/198_CT.dcm
+2026-01-31 10:48:24     235874 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/199_CT.dcm
+2026-01-31 10:48:24     212674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/19_CT.dcm
+2026-01-31 10:48:37     210892 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/1_CT.dcm
+2026-01-31 10:48:24     236168 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/200_CT.dcm
+2026-01-31 10:48:07     236140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/201_CT.dcm
+2026-01-31 10:48:24     235456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/202_CT.dcm
+2026-01-31 10:48:07     235710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/203_CT.dcm
+2026-01-31 10:48:07     235654 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/204_CT.dcm
+2026-01-31 10:48:24     235110 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/205_CT.dcm
+2026-01-31 10:48:07     235760 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/206_CT.dcm
+2026-01-31 10:48:24     235600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/207_CT.dcm
+2026-01-31 10:48:24     235090 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/208_CT.dcm
+2026-01-31 10:48:07     235856 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/209_CT.dcm
+2026-01-31 10:48:24     213708 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/20_CT.dcm
+2026-01-31 10:48:24     235590 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/210_CT.dcm
+2026-01-31 10:48:07     234698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/211_CT.dcm
+2026-01-31 10:48:24     234908 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/212_CT.dcm
+2026-01-31 10:48:07     234778 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/213_CT.dcm
+2026-01-31 10:48:08     234120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/214_CT.dcm
+2026-01-31 10:48:24     234558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/215_CT.dcm
+2026-01-31 10:48:08     234398 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/216_CT.dcm
+2026-01-31 10:48:24     234076 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/217_CT.dcm
+2026-01-31 10:48:24     235002 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/218_CT.dcm
+2026-01-31 10:48:08     235060 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/219_CT.dcm
+2026-01-31 10:48:08     214246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/21_CT.dcm
+2026-01-31 10:48:08     234908 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/220_CT.dcm
+2026-01-31 10:48:24     235694 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/221_CT.dcm
+2026-01-31 10:48:08     235708 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/222_CT.dcm
+2026-01-31 10:48:24     235098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/223_CT.dcm
+2026-01-31 10:48:24     235676 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/224_CT.dcm
+2026-01-31 10:48:08     235498 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/225_CT.dcm
+2026-01-31 10:48:24     235038 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/226_CT.dcm
+2026-01-31 10:48:08     235692 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/227_CT.dcm
+2026-01-31 10:48:08     235566 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/228_CT.dcm
+2026-01-31 10:48:24     235454 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/229_CT.dcm
+2026-01-31 10:48:24     214498 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/22_CT.dcm
+2026-01-31 10:48:08     235662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/230_CT.dcm
+2026-01-31 10:48:24     235606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/231_CT.dcm
+2026-01-31 10:48:08     234854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/232_CT.dcm
+2026-01-31 10:48:24     235480 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/233_CT.dcm
+2026-01-31 10:48:24     235492 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/234_CT.dcm
+2026-01-31 10:48:08     234470 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/235_CT.dcm
+2026-01-31 10:48:24     234990 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/236_CT.dcm
+2026-01-31 10:48:08     234882 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/237_CT.dcm
+2026-01-31 10:48:09     234544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/238_CT.dcm
+2026-01-31 10:48:24     234784 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/239_CT.dcm
+2026-01-31 10:48:09     215620 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/23_CT.dcm
+2026-01-31 10:48:09     234928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/240_CT.dcm
+2026-01-31 10:48:24     234694 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/241_CT.dcm
+2026-01-31 10:48:09     235054 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/242_CT.dcm
+2026-01-31 10:48:24     234734 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/243_CT.dcm
+2026-01-31 10:48:24     233928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/244_CT.dcm
+2026-01-31 10:48:09     234158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/245_CT.dcm
+2026-01-31 10:48:24     233600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/246_CT.dcm
+2026-01-31 10:48:09     232556 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/247_CT.dcm
+2026-01-31 10:48:09     233038 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/248_CT.dcm
+2026-01-31 10:48:24     232882 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/249_CT.dcm
+2026-01-31 10:48:09     216310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/24_CT.dcm
+2026-01-31 10:48:09     232390 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/250_CT.dcm
+2026-01-31 10:48:24     232954 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/251_CT.dcm
+2026-01-31 10:48:09     232836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/252_CT.dcm
+2026-01-31 10:48:24     232504 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/253_CT.dcm
+2026-01-31 10:48:07     232924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/254_CT.dcm
+2026-01-31 10:48:09     232902 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/255_CT.dcm
+2026-01-31 10:48:07     232124 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/256_CT.dcm
+2026-01-31 10:48:09     232500 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/257_CT.dcm
+2026-01-31 10:48:09     232170 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/258_CT.dcm
+2026-01-31 10:48:07     231374 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/259_CT.dcm
+2026-01-31 10:48:07     216762 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/25_CT.dcm
+2026-01-31 10:48:07     232046 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/260_CT.dcm
+2026-01-31 10:48:10     232056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/261_CT.dcm
+2026-01-31 10:48:07     230864 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/262_CT.dcm
+2026-01-31 10:48:10     231220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/263_CT.dcm
+2026-01-31 10:48:10     231068 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/264_CT.dcm
+2026-01-31 10:48:08     230696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/265_CT.dcm
+2026-01-31 10:48:10     231426 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/266_CT.dcm
+2026-01-31 10:48:08     231670 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/267_CT.dcm
+2026-01-31 10:48:08     231596 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/268_CT.dcm
+2026-01-31 10:48:10     232014 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/269_CT.dcm
+2026-01-31 10:48:10     217600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/26_CT.dcm
+2026-01-31 10:48:08     231820 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/270_CT.dcm
+2026-01-31 10:48:10     231330 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/271_CT.dcm
+2026-01-31 10:48:08     231264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/272_CT.dcm
+2026-01-31 10:48:10     231242 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/273_CT.dcm
+2026-01-31 10:48:10     230070 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/274_CT.dcm
+2026-01-31 10:48:08     230182 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/275_CT.dcm
+2026-01-31 10:48:10     229524 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/276_CT.dcm
+2026-01-31 10:48:08     228932 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/277_CT.dcm
+2026-01-31 10:48:08     229008 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/278_CT.dcm
+2026-01-31 10:48:10     228704 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/279_CT.dcm
+2026-01-31 10:48:08     218446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/27_CT.dcm
+2026-01-31 10:48:10     228232 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/280_CT.dcm
+2026-01-31 10:48:08     228280 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/281_CT.dcm
+2026-01-31 10:48:10     228266 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/282_CT.dcm
+2026-01-31 10:48:08     227716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/283_CT.dcm
+2026-01-31 10:48:08     228554 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/284_CT.dcm
+2026-01-31 10:48:11     228734 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/285_CT.dcm
+2026-01-31 10:48:08     227482 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/286_CT.dcm
+2026-01-31 10:48:11     227904 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/287_CT.dcm
+2026-01-31 10:48:11     227148 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/288_CT.dcm
+2026-01-31 10:48:09     225978 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/289_CT.dcm
+2026-01-31 10:48:09     218588 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/28_CT.dcm
+2026-01-31 10:48:11     226674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/290_CT.dcm
+2026-01-31 10:48:09     225854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/291_CT.dcm
+2026-01-31 10:48:11     225348 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/292_CT.dcm
+2026-01-31 10:48:09     224920 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/293_CT.dcm
+2026-01-31 10:48:09     224714 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/294_CT.dcm
+2026-01-31 10:48:11     224110 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/295_CT.dcm
+2026-01-31 10:48:09     224040 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/296_CT.dcm
+2026-01-31 10:48:11     224154 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/297_CT.dcm
+2026-01-31 10:48:11     223436 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/298_CT.dcm
+2026-01-31 10:48:09     224396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/299_CT.dcm
+2026-01-31 10:48:11     219190 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/29_CT.dcm
+2026-01-31 10:48:09     211060 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/2_CT.dcm
+2026-01-31 10:48:11     224370 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/300_CT.dcm
+2026-01-31 10:48:09     223804 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/301_CT.dcm
+2026-01-31 10:48:11     224268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/302_CT.dcm
+2026-01-31 10:48:09     223812 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/303_CT.dcm
+2026-01-31 10:48:09     223236 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/304_CT.dcm
+2026-01-31 10:48:11     223610 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/305_CT.dcm
+2026-01-31 10:48:09     223610 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/306_CT.dcm
+2026-01-31 10:48:12     223408 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/307_CT.dcm
+2026-01-31 10:48:12     223716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/308_CT.dcm
+2026-01-31 10:48:09     224212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/309_CT.dcm
+2026-01-31 10:48:09     219966 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/30_CT.dcm
+2026-01-31 10:48:12     223418 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/310_CT.dcm
+2026-01-31 10:48:10     223816 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/311_CT.dcm
+2026-01-31 10:48:12     223820 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/312_CT.dcm
+2026-01-31 10:48:10     223414 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/313_CT.dcm
+2026-01-31 10:48:10     224326 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/314_CT.dcm
+2026-01-31 10:48:12     224058 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/315_CT.dcm
+2026-01-31 10:48:10     223510 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/316_CT.dcm
+2026-01-31 10:48:12     223554 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/317_CT.dcm
+2026-01-31 10:48:12     222528 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/318_CT.dcm
+2026-01-31 10:48:10     222146 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/319_CT.dcm
+2026-01-31 10:48:12     220460 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/31_CT.dcm
+2026-01-31 10:48:10     222212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/320_CT.dcm
+2026-01-31 10:48:12     222534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/321_CT.dcm
+2026-01-31 10:48:10     222192 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/322_CT.dcm
+2026-01-31 10:48:12     222074 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/323_CT.dcm
+2026-01-31 10:48:12     222042 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/324_CT.dcm
+2026-01-31 10:48:10     221062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/325_CT.dcm
+2026-01-31 10:48:12     221426 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/326_CT.dcm
+2026-01-31 10:48:10     220924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/327_CT.dcm
+2026-01-31 10:48:10     220640 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/328_CT.dcm
+2026-01-31 10:48:13     221572 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/329_CT.dcm
+2026-01-31 10:48:10     221336 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/32_CT.dcm
+2026-01-31 10:48:10     221634 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/330_CT.dcm
+2026-01-31 10:48:13     221472 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/331_CT.dcm
+2026-01-31 10:48:10     221790 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/332_CT.dcm
+2026-01-31 10:48:13     221480 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/333_CT.dcm
+2026-01-31 10:48:13     220962 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/334_CT.dcm
+2026-01-31 10:48:11     220608 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/335_CT.dcm
+2026-01-31 10:48:13     220612 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/336_CT.dcm
+2026-01-31 10:48:11     219506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/337_CT.dcm
+2026-01-31 10:48:11     219478 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/338_CT.dcm
+2026-01-31 10:48:13     218914 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/339_CT.dcm
+2026-01-31 10:48:13     221588 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/33_CT.dcm
+2026-01-31 10:48:11     217812 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/340_CT.dcm
+2026-01-31 10:48:13     217948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/341_CT.dcm
+2026-01-31 10:48:11     216900 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/342_CT.dcm
+2026-01-31 10:48:13     216596 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/343_CT.dcm
+2026-01-31 10:48:13     216874 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/344_CT.dcm
+2026-01-31 10:48:11     216826 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/345_CT.dcm
+2026-01-31 10:48:13     216732 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/346_CT.dcm
+2026-01-31 10:48:11     216658 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/347_CT.dcm
+2026-01-31 10:48:11     216732 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/348_CT.dcm
+2026-01-31 10:48:14     215660 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/349_CT.dcm
+2026-01-31 10:48:14     221102 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/34_CT.dcm
+2026-01-31 10:48:11     216270 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/350_CT.dcm
+2026-01-31 10:48:14     216452 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/351_CT.dcm
+2026-01-31 10:48:11     215820 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/352_CT.dcm
+2026-01-31 10:48:14     216698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/353_CT.dcm
+2026-01-31 10:48:15     216858 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/354_CT.dcm
+2026-01-31 10:48:11     216610 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/355_CT.dcm
+2026-01-31 10:48:15     217002 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/356_CT.dcm
+2026-01-31 10:48:11     217276 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/357_CT.dcm
+2026-01-31 10:48:11     217632 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/358_CT.dcm
+2026-01-31 10:48:15     218270 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/359_CT.dcm
+2026-01-31 10:48:11     221846 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/35_CT.dcm
+2026-01-31 10:48:15     219440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/360_CT.dcm
+2026-01-31 10:48:12     219998 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/361_CT.dcm
+2026-01-31 10:48:15     221040 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/362_CT.dcm
+2026-01-31 10:48:12     221092 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/363_CT.dcm
+2026-01-31 10:48:12     219788 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/364_CT.dcm
+2026-01-31 10:48:15     220202 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/365_CT.dcm
+2026-01-31 10:48:12     219404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/366_CT.dcm
+2026-01-31 10:48:16     219082 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/367_CT.dcm
+2026-01-31 10:48:16     219362 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/368_CT.dcm
+2026-01-31 10:48:12     219370 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/369_CT.dcm
+2026-01-31 10:48:16     221828 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/36_CT.dcm
+2026-01-31 10:48:16     219094 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/370_CT.dcm
+2026-01-31 10:48:12     219468 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/371_CT.dcm
+2026-01-31 10:48:12     221748 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/37_CT.dcm
+2026-01-31 10:48:12     222254 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/38_CT.dcm
+2026-01-31 10:48:16     222318 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/39_CT.dcm
+2026-01-31 10:48:17     210726 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/3_CT.dcm
+2026-01-31 10:48:12     222062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/40_CT.dcm
+2026-01-31 10:48:17     222814 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/41_CT.dcm
+2026-01-31 10:48:12     222698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/42_CT.dcm
+2026-01-31 10:48:17     221630 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/43_CT.dcm
+2026-01-31 10:48:17     221070 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/44_CT.dcm
+2026-01-31 10:48:12     220334 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/45_CT.dcm
+2026-01-31 10:48:17     219858 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/46_CT.dcm
+2026-01-31 10:48:12     220590 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/47_CT.dcm
+2026-01-31 10:48:12     221116 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/48_CT.dcm
+2026-01-31 10:48:17     221270 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/49_CT.dcm
+2026-01-31 10:48:17     210310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/4_CT.dcm
+2026-01-31 10:48:13     222450 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/50_CT.dcm
+2026-01-31 10:48:17     222838 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/51_CT.dcm
+2026-01-31 10:48:13     223084 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/52_CT.dcm
+2026-01-31 10:48:17     223988 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/53_CT.dcm
+2026-01-31 10:48:17     224144 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/54_CT.dcm
+2026-01-31 10:48:13     223968 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/55_CT.dcm
+2026-01-31 10:48:17     224494 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/56_CT.dcm
+2026-01-31 10:48:13     224366 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/57_CT.dcm
+2026-01-31 10:48:13     223716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/58_CT.dcm
+2026-01-31 10:48:17     224984 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/59_CT.dcm
+2026-01-31 10:48:13     210826 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/5_CT.dcm
+2026-01-31 10:48:17     225136 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/60_CT.dcm
+2026-01-31 10:48:13     225318 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/61_CT.dcm
+2026-01-31 10:48:17     226358 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/62_CT.dcm
+2026-01-31 10:48:13     226958 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/63_CT.dcm
+2026-01-31 10:48:13     227648 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/64_CT.dcm
+2026-01-31 10:48:17     228668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/65_CT.dcm
+2026-01-31 10:48:13     228776 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/66_CT.dcm
+2026-01-31 10:48:18     228146 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/67_CT.dcm
+2026-01-31 10:48:18     228980 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/68_CT.dcm
+2026-01-31 10:48:13     229454 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/69_CT.dcm
+2026-01-31 10:48:18     210882 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/6_CT.dcm
+2026-01-31 10:48:18     229120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/70_CT.dcm
+2026-01-31 10:48:14     229634 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/71_CT.dcm
+2026-01-31 10:48:18     229830 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/72_CT.dcm
+2026-01-31 10:48:14     229290 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/73_CT.dcm
+2026-01-31 10:48:14     229668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/74_CT.dcm
+2026-01-31 10:48:18     230102 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/75_CT.dcm
+2026-01-31 10:48:14     229234 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/76_CT.dcm
+2026-01-31 10:48:18     229710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/77_CT.dcm
+2026-01-31 10:48:18     229658 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/78_CT.dcm
+2026-01-31 10:48:14     229606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/79_CT.dcm
+2026-01-31 10:48:14     210962 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/7_CT.dcm
+2026-01-31 10:48:14     230346 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/80_CT.dcm
+2026-01-31 10:48:18     230956 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/81_CT.dcm
+2026-01-31 10:48:14     231108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/82_CT.dcm
+2026-01-31 10:48:18     233092 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/83_CT.dcm
+2026-01-31 10:48:18     234590 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/84_CT.dcm
+2026-01-31 10:48:14     234176 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/85_CT.dcm
+2026-01-31 10:48:18     234748 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/86_CT.dcm
+2026-01-31 10:48:14     234838 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/87_CT.dcm
+2026-01-31 10:48:14     234982 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/88_CT.dcm
+2026-01-31 10:48:18     235308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/89_CT.dcm
+2026-01-31 10:48:14     211740 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/8_CT.dcm
+2026-01-31 10:48:14     234554 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/90_CT.dcm
+2026-01-31 10:48:18     234142 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/91_CT.dcm
+2026-01-31 10:48:14     234244 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/92_CT.dcm
+2026-01-31 10:48:18     234378 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/93_CT.dcm
+2026-01-31 10:48:19     234110 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/94_CT.dcm
+2026-01-31 10:48:14     234544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/95_CT.dcm
+2026-01-31 10:48:19     234416 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/96_CT.dcm
+2026-01-31 10:48:15     233748 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/97_CT.dcm
+2026-01-31 10:48:15     234346 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/98_CT.dcm
+2026-01-31 10:48:19     234726 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/99_CT.dcm
+2026-01-31 10:48:19     212048 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/BONE_LUNG 2MM/9_CT.dcm
+2026-01-31 10:48:19     161230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/100_CT.dcm
+2026-01-31 10:48:15     160844 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/101_CT.dcm
+2026-01-31 10:48:19     160836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/102_CT.dcm
+2026-01-31 10:48:15     161180 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/103_CT.dcm
+2026-01-31 10:48:15     161420 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/104_CT.dcm
+2026-01-31 10:48:19     161892 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/105_CT.dcm
+2026-01-31 10:48:15     161970 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/106_CT.dcm
+2026-01-31 10:48:19     162230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/107_CT.dcm
+2026-01-31 10:48:19     162260 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/108_CT.dcm
+2026-01-31 10:48:15     162344 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/109_CT.dcm
+2026-01-31 10:48:15     137710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/10_CT.dcm
+2026-01-31 10:48:19     162016 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/110_CT.dcm
+2026-01-31 10:48:15     161802 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/111_CT.dcm
+2026-01-31 10:48:19     161640 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/112_CT.dcm
+2026-01-31 10:48:15     161740 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/113_CT.dcm
+2026-01-31 10:48:15     161672 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/114_CT.dcm
+2026-01-31 10:48:19     162038 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/115_CT.dcm
+2026-01-31 10:48:15     161806 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/116_CT.dcm
+2026-01-31 10:48:19     162104 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/117_CT.dcm
+2026-01-31 10:48:19     162316 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/118_CT.dcm
+2026-01-31 10:48:15     162444 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/119_CT.dcm
+2026-01-31 10:48:19     138098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/11_CT.dcm
+2026-01-31 10:48:15     162196 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/120_CT.dcm
+2026-01-31 10:48:20     162070 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/121_CT.dcm
+2026-01-31 10:48:15     161578 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/122_CT.dcm
+2026-01-31 10:48:20     161776 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/123_CT.dcm
+2026-01-31 10:48:20     161338 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/124_CT.dcm
+2026-01-31 10:48:16     161310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/125_CT.dcm
+2026-01-31 10:48:20     160868 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/126_CT.dcm
+2026-01-31 10:48:16     161386 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/127_CT.dcm
+2026-01-31 10:48:16     161796 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/128_CT.dcm
+2026-01-31 10:48:20     161738 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/129_CT.dcm
+2026-01-31 10:48:16     138328 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/12_CT.dcm
+2026-01-31 10:48:16     161768 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/130_CT.dcm
+2026-01-31 10:48:21     161788 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/131_CT.dcm
+2026-01-31 10:48:16     161160 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/132_CT.dcm
+2026-01-31 10:48:21     160762 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/133_CT.dcm
+2026-01-31 10:48:21     160396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/134_CT.dcm
+2026-01-31 10:48:16     160198 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/135_CT.dcm
+2026-01-31 10:48:21     159756 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/136_CT.dcm
+2026-01-31 10:48:16     160164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/137_CT.dcm
+2026-01-31 10:48:16     160336 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/138_CT.dcm
+2026-01-31 10:48:21     160546 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/139_CT.dcm
+2026-01-31 10:48:21     139196 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/13_CT.dcm
+2026-01-31 10:48:16     160326 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/140_CT.dcm
+2026-01-31 10:48:21     159660 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/141_CT.dcm
+2026-01-31 10:48:16     159236 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/142_CT.dcm
+2026-01-31 10:48:22     159406 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/143_CT.dcm
+2026-01-31 10:48:22     159352 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/144_CT.dcm
+2026-01-31 10:48:16     159700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/145_CT.dcm
+2026-01-31 10:48:22     159924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/146_CT.dcm
+2026-01-31 10:48:17     160534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/147_CT.dcm
+2026-01-31 10:48:17     160668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/148_CT.dcm
+2026-01-31 10:48:22     160806 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/149_CT.dcm
+2026-01-31 10:48:22     140176 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/14_CT.dcm
+2026-01-31 10:48:17     160730 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/150_CT.dcm
+2026-01-31 10:48:22     160668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/151_CT.dcm
+2026-01-31 10:48:17     160416 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/152_CT.dcm
+2026-01-31 10:48:22     160948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/153_CT.dcm
+2026-01-31 10:48:22     160580 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/154_CT.dcm
+2026-01-31 10:48:17     160470 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/155_CT.dcm
+2026-01-31 10:48:23     160574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/156_CT.dcm
+2026-01-31 10:48:17     160304 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/157_CT.dcm
+2026-01-31 10:48:17     159716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/158_CT.dcm
+2026-01-31 10:48:23     159796 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/159_CT.dcm
+2026-01-31 10:48:17     141632 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/15_CT.dcm
+2026-01-31 10:48:23     159718 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/160_CT.dcm
+2026-01-31 10:48:17     160112 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/161_CT.dcm
+2026-01-31 10:48:24     159886 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/162_CT.dcm
+2026-01-31 10:48:17     159668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/163_CT.dcm
+2026-01-31 10:48:17     159112 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/164_CT.dcm
+2026-01-31 10:48:24     158892 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/165_CT.dcm
+2026-01-31 10:48:17     158556 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/166_CT.dcm
+2026-01-31 10:48:24     158574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/167_CT.dcm
+2026-01-31 10:48:25     158754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/168_CT.dcm
+2026-01-31 10:48:17     158884 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/169_CT.dcm
+2026-01-31 10:48:25     142822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/16_CT.dcm
+2026-01-31 10:48:25     158724 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/170_CT.dcm
+2026-01-31 10:48:17     158834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/171_CT.dcm
+2026-01-31 10:48:25     158234 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/172_CT.dcm
+2026-01-31 10:48:17     157794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/173_CT.dcm
+2026-01-31 10:48:18     157748 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/174_CT.dcm
+2026-01-31 10:48:25     157768 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/175_CT.dcm
+2026-01-31 10:48:18     157378 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/176_CT.dcm
+2026-01-31 10:48:26     157526 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/177_CT.dcm
+2026-01-31 10:48:26     157948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/178_CT.dcm
+2026-01-31 10:48:18     158656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/179_CT.dcm
+2026-01-31 10:48:18     144186 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/17_CT.dcm
+2026-01-31 10:48:18     158490 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/180_CT.dcm
+2026-01-31 10:48:26     158598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/181_CT.dcm
+2026-01-31 10:48:18     157940 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/182_CT.dcm
+2026-01-31 10:48:26     157414 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/183_CT.dcm
+2026-01-31 10:48:26     156164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/184_CT.dcm
+2026-01-31 10:48:18     156006 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/185_CT.dcm
+2026-01-31 10:48:26     155192 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/186_CT.dcm
+2026-01-31 10:48:18     154966 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/187_CT.dcm
+2026-01-31 10:48:18     154784 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/188_CT.dcm
+2026-01-31 10:48:27     154902 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/189_CT.dcm
+2026-01-31 10:48:18     144842 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/18_CT.dcm
+2026-01-31 10:48:18     154856 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/190_CT.dcm
+2026-01-31 10:48:27     154752 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/191_CT.dcm
+2026-01-31 10:48:18     153410 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/192_CT.dcm
+2026-01-31 10:48:27     152810 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/193_CT.dcm
+2026-01-31 10:48:27     151992 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/194_CT.dcm
+2026-01-31 10:48:18     151588 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/195_CT.dcm
+2026-01-31 10:48:28     150662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/196_CT.dcm
+2026-01-31 10:48:19     150642 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/197_CT.dcm
+2026-01-31 10:48:19     150258 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/198_CT.dcm
+2026-01-31 10:48:28     150550 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/199_CT.dcm
+2026-01-31 10:48:28     145668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/19_CT.dcm
+2026-01-31 10:48:19     137130 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/1_CT.dcm
+2026-01-31 10:48:28     150672 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/200_CT.dcm
+2026-01-31 10:48:19     151156 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/201_CT.dcm
+2026-01-31 10:48:29     150496 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/202_CT.dcm
+2026-01-31 10:48:19     150092 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/203_CT.dcm
+2026-01-31 10:48:19     149952 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/204_CT.dcm
+2026-01-31 10:48:29     150260 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/205_CT.dcm
+2026-01-31 10:48:19     150602 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/206_CT.dcm
+2026-01-31 10:48:29     150678 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/207_CT.dcm
+2026-01-31 10:48:29     150790 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/208_CT.dcm
+2026-01-31 10:48:19     151314 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/209_CT.dcm
+2026-01-31 10:48:29     146382 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/20_CT.dcm
+2026-01-31 10:48:29     151140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/210_CT.dcm
+2026-01-31 10:48:19     151024 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/211_CT.dcm
+2026-01-31 10:48:29     150282 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/212_CT.dcm
+2026-01-31 10:48:19     149730 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/213_CT.dcm
+2026-01-31 10:48:19     149706 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/214_CT.dcm
+2026-01-31 10:48:29     150120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/215_CT.dcm
+2026-01-31 10:48:19     149570 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/216_CT.dcm
+2026-01-31 10:48:30     149374 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/217_CT.dcm
+2026-01-31 10:48:30     148684 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/218_CT.dcm
+2026-01-31 10:48:19     149176 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/219_CT.dcm
+2026-01-31 10:48:19     147704 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/21_CT.dcm
+2026-01-31 10:48:20     149772 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/220_CT.dcm
+2026-01-31 10:48:30     149764 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/221_CT.dcm
+2026-01-31 10:48:20     149722 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/222_CT.dcm
+2026-01-31 10:48:30     149144 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/223_CT.dcm
+2026-01-31 10:48:30     148288 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/224_CT.dcm
+2026-01-31 10:48:20     147912 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/225_CT.dcm
+2026-01-31 10:48:30     147244 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/226_CT.dcm
+2026-01-31 10:48:20     146350 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/227_CT.dcm
+2026-01-31 10:48:20     145382 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/228_CT.dcm
+2026-01-31 10:48:30     145192 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/229_CT.dcm
+2026-01-31 10:48:30     147884 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/22_CT.dcm
+2026-01-31 10:48:20     145230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/230_CT.dcm
+2026-01-31 10:48:30     145360 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/231_CT.dcm
+2026-01-31 10:48:20     145026 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/232_CT.dcm
+2026-01-31 10:48:30     144742 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/233_CT.dcm
+2026-01-31 10:48:30     144680 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/234_CT.dcm
+2026-01-31 10:48:20     145036 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/235_CT.dcm
+2026-01-31 10:48:30     145412 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/236_CT.dcm
+2026-01-31 10:48:20     145762 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/237_CT.dcm
+2026-01-31 10:48:20     145810 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/238_CT.dcm
+2026-01-31 10:48:30     146778 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/239_CT.dcm
+2026-01-31 10:48:20     148158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/23_CT.dcm
+2026-01-31 10:48:20     147978 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/240_CT.dcm
+2026-01-31 10:48:30     149380 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/241_CT.dcm
+2026-01-31 10:48:20     149798 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/242_CT.dcm
+2026-01-31 10:48:31     149370 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/243_CT.dcm
+2026-01-31 10:48:31     148710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/244_CT.dcm
+2026-01-31 10:48:20     148614 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/245_CT.dcm
+2026-01-31 10:48:31     148280 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/246_CT.dcm
+2026-01-31 10:48:21     148490 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/247_CT.dcm
+2026-01-31 10:48:21     148132 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/24_CT.dcm
+2026-01-31 10:48:31     148628 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/25_CT.dcm
+2026-01-31 10:48:21     148712 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/26_CT.dcm
+2026-01-31 10:48:31     148974 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/27_CT.dcm
+2026-01-31 10:48:32     148978 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/28_CT.dcm
+2026-01-31 10:48:21     148256 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/29_CT.dcm
+2026-01-31 10:48:32     136578 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/2_CT.dcm
+2026-01-31 10:48:32     146712 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/30_CT.dcm
+2026-01-31 10:48:21     146264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/31_CT.dcm
+2026-01-31 10:48:32     146570 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/32_CT.dcm
+2026-01-31 10:48:21     147690 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/33_CT.dcm
+2026-01-31 10:48:21     148740 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/34_CT.dcm
+2026-01-31 10:48:32     150104 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/35_CT.dcm
+2026-01-31 10:48:21     150514 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/36_CT.dcm
+2026-01-31 10:48:32     151138 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/37_CT.dcm
+2026-01-31 10:48:33     151310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/38_CT.dcm
+2026-01-31 10:48:21     151634 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/39_CT.dcm
+2026-01-31 10:48:21     136674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/3_CT.dcm
+2026-01-31 10:48:33     152354 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/40_CT.dcm
+2026-01-31 10:48:21     153308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/41_CT.dcm
+2026-01-31 10:48:33     153912 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/42_CT.dcm
+2026-01-31 10:48:21     154912 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/43_CT.dcm
+2026-01-31 10:48:21     155662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/44_CT.dcm
+2026-01-31 10:48:33     156078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/45_CT.dcm
+2026-01-31 10:48:21     156540 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/46_CT.dcm
+2026-01-31 10:48:33     156532 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/47_CT.dcm
+2026-01-31 10:48:33     156794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/48_CT.dcm
+2026-01-31 10:48:22     156936 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/49_CT.dcm
+2026-01-31 10:48:22     136928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/4_CT.dcm
+2026-01-31 10:48:33     157056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/50_CT.dcm
+2026-01-31 10:48:22     156948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/51_CT.dcm
+2026-01-31 10:48:33     156726 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/52_CT.dcm
+2026-01-31 10:48:22     157114 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/53_CT.dcm
+2026-01-31 10:48:22     157186 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/54_CT.dcm
+2026-01-31 10:48:33     157868 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/55_CT.dcm
+2026-01-31 10:48:22     159916 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/56_CT.dcm
+2026-01-31 10:48:33     160272 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/57_CT.dcm
+2026-01-31 10:48:33     160028 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/58_CT.dcm
+2026-01-31 10:48:22     160624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/59_CT.dcm
+2026-01-31 10:48:33     138050 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/5_CT.dcm
+2026-01-31 10:48:22     160350 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/60_CT.dcm
+2026-01-31 10:48:33     160028 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/61_CT.dcm
+2026-01-31 10:48:22     159586 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/62_CT.dcm
+2026-01-31 10:48:33     160172 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/63_CT.dcm
+2026-01-31 10:48:34     159826 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/64_CT.dcm
+2026-01-31 10:48:22     159812 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/65_CT.dcm
+2026-01-31 10:48:34     160216 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/66_CT.dcm
+2026-01-31 10:48:22     161002 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/67_CT.dcm
+2026-01-31 10:48:22     161140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/68_CT.dcm
+2026-01-31 10:48:34     161396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/69_CT.dcm
+2026-01-31 10:48:22     138504 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/6_CT.dcm
+2026-01-31 10:48:22     161186 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/70_CT.dcm
+2026-01-31 10:48:34     161136 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/71_CT.dcm
+2026-01-31 10:48:23     160548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/72_CT.dcm
+2026-01-31 10:48:34     160610 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/73_CT.dcm
+2026-01-31 10:48:34     160896 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/74_CT.dcm
+2026-01-31 10:48:23     161592 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/75_CT.dcm
+2026-01-31 10:48:34     162128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/76_CT.dcm
+2026-01-31 10:48:23     162718 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/77_CT.dcm
+2026-01-31 10:48:23     162618 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/78_CT.dcm
+2026-01-31 10:48:34     162790 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/79_CT.dcm
+2026-01-31 10:48:34     139018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/7_CT.dcm
+2026-01-31 10:48:34     162418 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/80_CT.dcm
+2026-01-31 10:48:23     162010 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/81_CT.dcm
+2026-01-31 10:48:35     162046 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/82_CT.dcm
+2026-01-31 10:48:23     162640 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/83_CT.dcm
+2026-01-31 10:48:23     163084 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/84_CT.dcm
+2026-01-31 10:48:35     163730 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/85_CT.dcm
+2026-01-31 10:48:23     163416 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/86_CT.dcm
+2026-01-31 10:48:35     163112 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/87_CT.dcm
+2026-01-31 10:48:35     162912 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/88_CT.dcm
+2026-01-31 10:48:23     163214 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/89_CT.dcm
+2026-01-31 10:48:35     138352 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/8_CT.dcm
+2026-01-31 10:48:35     162730 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/90_CT.dcm
+2026-01-31 10:48:23     162348 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/91_CT.dcm
+2026-01-31 10:48:35     161544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/92_CT.dcm
+2026-01-31 10:48:23     160920 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/93_CT.dcm
+2026-01-31 10:48:23     160638 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/94_CT.dcm
+2026-01-31 10:48:35     161424 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/95_CT.dcm
+2026-01-31 10:48:23     161662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/96_CT.dcm
+2026-01-31 10:48:35     162412 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/97_CT.dcm
+2026-01-31 10:48:35     161790 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/98_CT.dcm
+2026-01-31 10:48:23     161628 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/99_CT.dcm
+2026-01-31 10:48:23     137860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/CAP W_ 3mm/9_CT.dcm
+2026-01-31 10:48:24       8972 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/RadiologyReport.txt
+2026-01-31 10:48:36      79076 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/SCOUT AP  1.0  Tr20/1_CT.dcm
+2026-01-31 10:48:36      68526 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-1dd0aebb/SCOUT LAT  1.0  Tr20/1_CT.dcm
+2026-01-31 10:48:36     205542 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/100_CT.dcm
+2026-01-31 10:48:24     204754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/101_CT.dcm
+2026-01-31 10:48:37     205028 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/102_CT.dcm
+2026-01-31 10:48:24     205600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/103_CT.dcm
+2026-01-31 10:48:24     205136 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/104_CT.dcm
+2026-01-31 10:48:37     204116 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/105_CT.dcm
+2026-01-31 10:48:24     204482 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/106_CT.dcm
+2026-01-31 10:48:37     205004 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/107_CT.dcm
+2026-01-31 10:48:37     204606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/108_CT.dcm
+2026-01-31 10:48:24     204120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/109_CT.dcm
+2026-01-31 10:48:24     188542 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/10_CT.dcm
+2026-01-31 10:48:37     204108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/110_CT.dcm
+2026-01-31 10:48:24     204732 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/111_CT.dcm
+2026-01-31 10:48:37     204888 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/112_CT.dcm
+2026-01-31 10:48:24     204862 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/113_CT.dcm
+2026-01-31 10:48:24     205644 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/114_CT.dcm
+2026-01-31 10:48:37     206372 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/115_CT.dcm
+2026-01-31 10:48:24     207068 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/116_CT.dcm
+2026-01-31 10:48:37     207114 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/117_CT.dcm
+2026-01-31 10:48:37     208354 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/118_CT.dcm
+2026-01-31 10:48:24     209528 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/119_CT.dcm
+2026-01-31 10:48:38     188660 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/11_CT.dcm
+2026-01-31 10:48:24     208218 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/120_CT.dcm
+2026-01-31 10:48:38     206688 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/121_CT.dcm
+2026-01-31 10:48:24     206516 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/122_CT.dcm
+2026-01-31 10:48:38     206836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/123_CT.dcm
+2026-01-31 10:48:38     206286 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/124_CT.dcm
+2026-01-31 10:48:24     205666 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/125_CT.dcm
+2026-01-31 10:48:38     205616 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/126_CT.dcm
+2026-01-31 10:48:24     206158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/127_CT.dcm
+2026-01-31 10:48:24     206118 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/128_CT.dcm
+2026-01-31 10:48:38     205404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/129_CT.dcm
+2026-01-31 10:48:24     188100 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/12_CT.dcm
+2026-01-31 10:48:24     205524 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/130_CT.dcm
+2026-01-31 10:48:34     205620 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/131_CT.dcm
+2026-01-31 10:48:24     205194 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/132_CT.dcm
+2026-01-31 10:48:35     204418 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/133_CT.dcm
+2026-01-31 10:48:36     204606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/134_CT.dcm
+2026-01-31 10:48:24     205498 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/135_CT.dcm
+2026-01-31 10:48:38     205260 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/136_CT.dcm
+2026-01-31 10:48:24     204518 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/137_CT.dcm
+2026-01-31 10:48:24     204542 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/138_CT.dcm
+2026-01-31 10:48:36     205048 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/139_CT.dcm
+2026-01-31 10:48:34     187662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/13_CT.dcm
+2026-01-31 10:48:24     204758 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/140_CT.dcm
+2026-01-31 10:48:37     204216 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/141_CT.dcm
+2026-01-31 10:48:24     204044 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/142_CT.dcm
+2026-01-31 10:48:34     204304 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/143_CT.dcm
+2026-01-31 10:48:35     204446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/144_CT.dcm
+2026-01-31 10:48:24     203960 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/145_CT.dcm
+2026-01-31 10:48:37     204242 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/146_CT.dcm
+2026-01-31 10:48:24     204676 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/147_CT.dcm
+2026-01-31 10:48:24     204230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/148_CT.dcm
+2026-01-31 10:48:39     203606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/149_CT.dcm
+2026-01-31 10:48:36     188208 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/14_CT.dcm
+2026-01-31 10:48:24     203834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/150_CT.dcm
+2026-01-31 10:48:34     204858 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/151_CT.dcm
+2026-01-31 10:48:24     204782 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/152_CT.dcm
+2026-01-31 10:48:34     204062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/153_CT.dcm
+2026-01-31 10:48:38     203872 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/154_CT.dcm
+2026-01-31 10:48:24     204034 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/155_CT.dcm
+2026-01-31 10:48:36     203520 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/156_CT.dcm
+2026-01-31 10:48:24     202598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/157_CT.dcm
+2026-01-31 10:48:24     202430 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/158_CT.dcm
+2026-01-31 10:48:37     202880 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/159_CT.dcm
+2026-01-31 10:48:24     188510 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/15_CT.dcm
+2026-01-31 10:48:39     202748 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/160_CT.dcm
+2026-01-31 10:48:24     202754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/161_CT.dcm
+2026-01-31 10:48:34     203086 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/162_CT.dcm
+2026-01-31 10:48:24     203930 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/163_CT.dcm
+2026-01-31 10:48:24     203758 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/164_CT.dcm
+2026-01-31 10:48:36     203100 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/165_CT.dcm
+2026-01-31 10:48:24     203094 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/166_CT.dcm
+2026-01-31 10:48:36     203948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/167_CT.dcm
+2026-01-31 10:48:34     203734 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/168_CT.dcm
+2026-01-31 10:48:24     202926 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/169_CT.dcm
+2026-01-31 10:48:34     188248 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/16_CT.dcm
+2026-01-31 10:48:34     203082 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/170_CT.dcm
+2026-01-31 10:48:24     204426 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/171_CT.dcm
+2026-01-31 10:48:38     207024 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/172_CT.dcm
+2026-01-31 10:48:24     208316 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/173_CT.dcm
+2026-01-31 10:48:24     210264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/174_CT.dcm
+2026-01-31 10:48:37     212890 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/175_CT.dcm
+2026-01-31 10:48:24     213218 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/176_CT.dcm
+2026-01-31 10:48:39     212222 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/177_CT.dcm
+2026-01-31 10:48:36     210842 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/178_CT.dcm
+2026-01-31 10:48:24     210834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/179_CT.dcm
+2026-01-31 10:48:24     188018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/17_CT.dcm
+2026-01-31 10:48:24     210742 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/180_CT.dcm
+2026-01-31 10:48:36     210730 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/181_CT.dcm
+2026-01-31 10:48:24     212108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/182_CT.dcm
+2026-01-31 10:48:34     213722 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/183_CT.dcm
+2026-01-31 10:48:34     212786 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/184_CT.dcm
+2026-01-31 10:48:24     210890 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/185_CT.dcm
+2026-01-31 10:48:34     209000 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/186_CT.dcm
+2026-01-31 10:48:24     208456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/187_CT.dcm
+2026-01-31 10:48:24     207108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/188_CT.dcm
+2026-01-31 10:48:38     205188 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/189_CT.dcm
+2026-01-31 10:48:24     188746 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/18_CT.dcm
+2026-01-31 10:48:24     203636 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/190_CT.dcm
+2026-01-31 10:48:34     204318 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/191_CT.dcm
+2026-01-31 10:48:24     204546 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/192_CT.dcm
+2026-01-31 10:48:39     203252 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/193_CT.dcm
+2026-01-31 10:48:36     202340 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/194_CT.dcm
+2026-01-31 10:48:24     203110 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/195_CT.dcm
+2026-01-31 10:48:37     203558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/196_CT.dcm
+2026-01-31 10:48:24     203290 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/197_CT.dcm
+2026-01-31 10:48:24     203712 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/198_CT.dcm
+2026-01-31 10:48:36     204784 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/199_CT.dcm
+2026-01-31 10:48:34     189024 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/19_CT.dcm
+2026-01-31 10:48:38     186774 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/1_CT.dcm
+2026-01-31 10:48:34     204956 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/200_CT.dcm
+2026-01-31 10:48:24     204210 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/201_CT.dcm
+2026-01-31 10:48:34     204272 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/202_CT.dcm
+2026-01-31 10:48:24     205182 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/203_CT.dcm
+2026-01-31 10:48:24     205210 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/204_CT.dcm
+2026-01-31 10:48:34     204430 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/205_CT.dcm
+2026-01-31 10:48:24     204162 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/206_CT.dcm
+2026-01-31 10:48:34     204796 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/207_CT.dcm
+2026-01-31 10:48:36     204926 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/208_CT.dcm
+2026-01-31 10:48:24     204262 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/209_CT.dcm
+2026-01-31 10:48:37     188690 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/20_CT.dcm
+2026-01-31 10:48:36     204128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/210_CT.dcm
+2026-01-31 10:48:24     204860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/211_CT.dcm
+2026-01-31 10:48:39     205064 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/212_CT.dcm
+2026-01-31 10:48:24     204488 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/213_CT.dcm
+2026-01-31 10:48:24     204564 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/214_CT.dcm
+2026-01-31 10:48:34     205506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/215_CT.dcm
+2026-01-31 10:48:24     205690 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/216_CT.dcm
+2026-01-31 10:48:34     204788 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/217_CT.dcm
+2026-01-31 10:48:34     204800 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/218_CT.dcm
+2026-01-31 10:48:24     205278 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/219_CT.dcm
+2026-01-31 10:48:24     188402 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/21_CT.dcm
+2026-01-31 10:48:24     205226 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/220_CT.dcm
+2026-01-31 10:48:34     204636 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/221_CT.dcm
+2026-01-31 10:48:24     203884 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/222_CT.dcm
+2026-01-31 10:48:38     204174 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/223_CT.dcm
+2026-01-31 10:48:34     204504 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/224_CT.dcm
+2026-01-31 10:48:24     203820 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/225_CT.dcm
+2026-01-31 10:48:37     203426 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/226_CT.dcm
+2026-01-31 10:48:24     203486 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/227_CT.dcm
+2026-01-31 10:48:24     203534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/228_CT.dcm
+2026-01-31 10:48:36     202618 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/229_CT.dcm
+2026-01-31 10:48:34     189654 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/22_CT.dcm
+2026-01-31 10:48:24     202198 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/230_CT.dcm
+2026-01-31 10:48:39     202832 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/231_CT.dcm
+2026-01-31 10:48:24     203212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/232_CT.dcm
+2026-01-31 10:48:34     202844 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/233_CT.dcm
+2026-01-31 10:48:35     202344 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/234_CT.dcm
+2026-01-31 10:48:24     203084 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/235_CT.dcm
+2026-01-31 10:48:35     203770 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/236_CT.dcm
+2026-01-31 10:48:24     203292 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/237_CT.dcm
+2026-01-31 10:48:24     203088 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/238_CT.dcm
+2026-01-31 10:48:38     204020 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/239_CT.dcm
+2026-01-31 10:48:24     189978 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/23_CT.dcm
+2026-01-31 10:48:24     204396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/240_CT.dcm
+2026-01-31 10:48:34     204054 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/241_CT.dcm
+2026-01-31 10:48:24     203806 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/242_CT.dcm
+2026-01-31 10:48:36     204400 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/243_CT.dcm
+2026-01-31 10:48:34     204558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/244_CT.dcm
+2026-01-31 10:48:24     204016 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/245_CT.dcm
+2026-01-31 10:48:36     203560 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/246_CT.dcm
+2026-01-31 10:48:25     204220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/247_CT.dcm
+2026-01-31 10:48:24     204380 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/248_CT.dcm
+2026-01-31 10:48:39     203936 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/249_CT.dcm
+2026-01-31 10:48:24     189158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/24_CT.dcm
+2026-01-31 10:48:24     203652 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/250_CT.dcm
+2026-01-31 10:48:36     204458 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/251_CT.dcm
+2026-01-31 10:48:24     205052 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/252_CT.dcm
+2026-01-31 10:48:34     204580 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/253_CT.dcm
+2026-01-31 10:48:35     204436 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/254_CT.dcm
+2026-01-31 10:48:24     204976 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/255_CT.dcm
+2026-01-31 10:48:34     205342 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/256_CT.dcm
+2026-01-31 10:48:24     205196 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/257_CT.dcm
+2026-01-31 10:48:24     205352 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/258_CT.dcm
+2026-01-31 10:48:36     206060 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/259_CT.dcm
+2026-01-31 10:48:34     188382 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/25_CT.dcm
+2026-01-31 10:48:36     206400 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/260_CT.dcm
+2026-01-31 10:48:24     205698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/261_CT.dcm
+2026-01-31 10:48:36     205078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/262_CT.dcm
+2026-01-31 10:48:24     206018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/263_CT.dcm
+2026-01-31 10:48:24     206212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/264_CT.dcm
+2026-01-31 10:48:40     205596 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/265_CT.dcm
+2026-01-31 10:48:24     205072 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/266_CT.dcm
+2026-01-31 10:48:34     205670 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/267_CT.dcm
+2026-01-31 10:48:34     205692 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/268_CT.dcm
+2026-01-31 10:48:24     205264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/269_CT.dcm
+2026-01-31 10:48:24     189118 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/26_CT.dcm
+2026-01-31 10:48:35     204896 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/270_CT.dcm
+2026-01-31 10:48:24     205574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/271_CT.dcm
+2026-01-31 10:48:35     206004 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/272_CT.dcm
+2026-01-31 10:48:24     205456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/273_CT.dcm
+2026-01-31 10:48:24     204830 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/274_CT.dcm
+2026-01-31 10:48:36     205174 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/275_CT.dcm
+2026-01-31 10:48:24     205456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/276_CT.dcm
+2026-01-31 10:48:35     204808 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/277_CT.dcm
+2026-01-31 10:48:36     204116 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/278_CT.dcm
+2026-01-31 10:48:24     204704 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/279_CT.dcm
+2026-01-31 10:48:34     189154 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/27_CT.dcm
+2026-01-31 10:48:24     204942 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/280_CT.dcm
+2026-01-31 10:48:36     204340 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/281_CT.dcm
+2026-01-31 10:48:24     203914 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/282_CT.dcm
+2026-01-31 10:48:35     204598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/283_CT.dcm
+2026-01-31 10:48:35     204928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/284_CT.dcm
+2026-01-31 10:48:24     204604 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/285_CT.dcm
+2026-01-31 10:48:34     204208 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/286_CT.dcm
+2026-01-31 10:48:24     204638 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/287_CT.dcm
+2026-01-31 10:48:24     205052 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/288_CT.dcm
+2026-01-31 10:48:36     204834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/289_CT.dcm
+2026-01-31 10:48:35     188570 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/28_CT.dcm
+2026-01-31 10:48:24     204598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/290_CT.dcm
+2026-01-31 10:48:34     205234 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/291_CT.dcm
+2026-01-31 10:48:24     205682 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/292_CT.dcm
+2026-01-31 10:48:35     204990 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/293_CT.dcm
+2026-01-31 10:48:35     204170 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/294_CT.dcm
+2026-01-31 10:48:24     204660 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/295_CT.dcm
+2026-01-31 10:48:34     205102 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/296_CT.dcm
+2026-01-31 10:48:24     204482 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/297_CT.dcm
+2026-01-31 10:48:24     203834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/298_CT.dcm
+2026-01-31 10:48:36     204158 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/299_CT.dcm
+2026-01-31 10:48:24     188256 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/29_CT.dcm
+2026-01-31 10:48:24     187808 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/2_CT.dcm
+2026-01-31 10:48:24     204586 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/300_CT.dcm
+2026-01-31 10:48:36     204080 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/301_CT.dcm
+2026-01-31 10:48:24     203506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/302_CT.dcm
+2026-01-31 10:48:35     203922 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/303_CT.dcm
+2026-01-31 10:48:35     204288 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/304_CT.dcm
+2026-01-31 10:48:24     203822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/305_CT.dcm
+2026-01-31 10:48:36     203424 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/306_CT.dcm
+2026-01-31 10:48:24     203898 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/307_CT.dcm
+2026-01-31 10:48:24     204312 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/308_CT.dcm
+2026-01-31 10:48:35     203844 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/309_CT.dcm
+2026-01-31 10:48:35     188910 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/30_CT.dcm
+2026-01-31 10:48:24     203142 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/310_CT.dcm
+2026-01-31 10:48:35     203766 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/311_CT.dcm
+2026-01-31 10:48:24     204128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/312_CT.dcm
+2026-01-31 10:48:36     203668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/313_CT.dcm
+2026-01-31 10:48:35     203012 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/314_CT.dcm
+2026-01-31 10:48:24     203650 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/315_CT.dcm
+2026-01-31 10:48:37     204376 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/316_CT.dcm
+2026-01-31 10:48:24     204190 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/317_CT.dcm
+2026-01-31 10:48:24     203768 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/318_CT.dcm
+2026-01-31 10:48:35     204022 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/319_CT.dcm
+2026-01-31 10:48:24     189272 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/31_CT.dcm
+2026-01-31 10:48:36     204284 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/320_CT.dcm
+2026-01-31 10:48:24     204290 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/321_CT.dcm
+2026-01-31 10:48:47     203716 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/322_CT.dcm
+2026-01-31 10:48:24     204238 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/323_CT.dcm
+2026-01-31 10:48:24     204624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/324_CT.dcm
+2026-01-31 10:48:35     204174 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/325_CT.dcm
+2026-01-31 10:48:24     203396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/326_CT.dcm
+2026-01-31 10:48:36     203506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/327_CT.dcm
+2026-01-31 10:48:35     204080 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/328_CT.dcm
+2026-01-31 10:48:24     203610 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/329_CT.dcm
+2026-01-31 10:48:37     188378 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/32_CT.dcm
+2026-01-31 10:48:35     202874 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/330_CT.dcm
+2026-01-31 10:48:24     203420 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/331_CT.dcm
+2026-01-31 10:48:48     203896 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/332_CT.dcm
+2026-01-31 10:48:24     203662 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/333_CT.dcm
+2026-01-31 10:48:25     202840 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/334_CT.dcm
+2026-01-31 10:48:37     203058 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/335_CT.dcm
+2026-01-31 10:48:24     203618 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/336_CT.dcm
+2026-01-31 10:48:35     203176 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/337_CT.dcm
+2026-01-31 10:48:35     202616 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/338_CT.dcm
+2026-01-31 10:48:24     202856 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/339_CT.dcm
+2026-01-31 10:48:24     187562 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/33_CT.dcm
+2026-01-31 10:48:35     203092 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/340_CT.dcm
+2026-01-31 10:48:25     202384 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/341_CT.dcm
+2026-01-31 10:48:36     201822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/342_CT.dcm
+2026-01-31 10:48:24     202234 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/343_CT.dcm
+2026-01-31 10:48:25     203496 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/344_CT.dcm
+2026-01-31 10:48:35     203458 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/345_CT.dcm
+2026-01-31 10:48:25     202950 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/346_CT.dcm
+2026-01-31 10:48:37     203568 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/347_CT.dcm
+2026-01-31 10:48:39     204398 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/348_CT.dcm
+2026-01-31 10:48:25     204128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/349_CT.dcm
+2026-01-31 10:48:25     187976 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/34_CT.dcm
+2026-01-31 10:48:37     203760 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/350_CT.dcm
+2026-01-31 10:48:25     204106 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/351_CT.dcm
+2026-01-31 10:48:48     204698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/352_CT.dcm
+2026-01-31 10:48:25     204856 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/353_CT.dcm
+2026-01-31 10:48:24     204700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/354_CT.dcm
+2026-01-31 10:48:35     205074 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/355_CT.dcm
+2026-01-31 10:48:25     205588 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/356_CT.dcm
+2026-01-31 10:48:35     205332 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/357_CT.dcm
+2026-01-31 10:48:35     204622 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/358_CT.dcm
+2026-01-31 10:48:25     204860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/359_CT.dcm
+2026-01-31 10:48:37     188280 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/35_CT.dcm
+2026-01-31 10:48:25     187996 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/36_CT.dcm
+2026-01-31 10:48:35     187864 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/37_CT.dcm
+2026-01-31 10:48:36     188752 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/38_CT.dcm
+2026-01-31 10:48:25     189356 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/39_CT.dcm
+2026-01-31 10:48:39     188128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/3_CT.dcm
+2026-01-31 10:48:48     188904 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/40_CT.dcm
+2026-01-31 10:48:25     188360 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/41_CT.dcm
+2026-01-31 10:48:37     188642 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/42_CT.dcm
+2026-01-31 10:48:25     188908 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/43_CT.dcm
+2026-01-31 10:48:25     188162 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/44_CT.dcm
+2026-01-31 10:48:35     187772 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/45_CT.dcm
+2026-01-31 10:48:25     188618 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/46_CT.dcm
+2026-01-31 10:48:35     188964 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/47_CT.dcm
+2026-01-31 10:48:35     188506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/48_CT.dcm
+2026-01-31 10:48:25     188204 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/49_CT.dcm
+2026-01-31 10:48:39     187276 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/4_CT.dcm
+2026-01-31 10:48:37     188906 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/50_CT.dcm
+2026-01-31 10:48:25     189206 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/51_CT.dcm
+2026-01-31 10:48:36     189116 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/52_CT.dcm
+2026-01-31 10:48:25     189078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/53_CT.dcm
+2026-01-31 10:48:25     189948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/54_CT.dcm
+2026-01-31 10:48:35     191056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/55_CT.dcm
+2026-01-31 10:48:25     191338 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/56_CT.dcm
+2026-01-31 10:48:37     191200 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/57_CT.dcm
+2026-01-31 10:48:35     192076 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/58_CT.dcm
+2026-01-31 10:48:25     193098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/59_CT.dcm
+2026-01-31 10:48:25     187212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/5_CT.dcm
+2026-01-31 10:48:25     192844 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/60_CT.dcm
+2026-01-31 10:48:48     192634 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/61_CT.dcm
+2026-01-31 10:48:25     192906 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/62_CT.dcm
+2026-01-31 10:48:39     193356 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/63_CT.dcm
+2026-01-31 10:48:37     193368 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/64_CT.dcm
+2026-01-31 10:48:25     193324 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/65_CT.dcm
+2026-01-31 10:48:35     194412 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/66_CT.dcm
+2026-01-31 10:48:25     195252 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/67_CT.dcm
+2026-01-31 10:48:25     194948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/68_CT.dcm
+2026-01-31 10:48:36     195102 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/69_CT.dcm
+2026-01-31 10:48:37     188624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/6_CT.dcm
+2026-01-31 10:48:25     196066 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/70_CT.dcm
+2026-01-31 10:48:35     197246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/71_CT.dcm
+2026-01-31 10:48:25     197416 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/72_CT.dcm
+2026-01-31 10:48:35     197226 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/73_CT.dcm
+2026-01-31 10:48:37     198076 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/74_CT.dcm
+2026-01-31 10:48:25     199510 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/75_CT.dcm
+2026-01-31 10:48:48     199834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/76_CT.dcm
+2026-01-31 10:48:25     200068 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/77_CT.dcm
+2026-01-31 10:48:25     200674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/78_CT.dcm
+2026-01-31 10:48:37     201696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/79_CT.dcm
+2026-01-31 10:48:25     189042 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/7_CT.dcm
+2026-01-31 10:48:36     202020 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/80_CT.dcm
+2026-01-31 10:48:25     202056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/81_CT.dcm
+2026-01-31 10:48:35     202598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/82_CT.dcm
+2026-01-31 10:48:25     202866 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/83_CT.dcm
+2026-01-31 10:48:25     202342 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/84_CT.dcm
+2026-01-31 10:48:37     203584 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/85_CT.dcm
+2026-01-31 10:48:25     207860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/86_CT.dcm
+2026-01-31 10:48:35     210220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/87_CT.dcm
+2026-01-31 10:48:37     210036 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/88_CT.dcm
+2026-01-31 10:48:25     208370 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/89_CT.dcm
+2026-01-31 10:48:25     188396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/8_CT.dcm
+2026-01-31 10:48:36     209074 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/90_CT.dcm
+2026-01-31 10:48:25     209756 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/91_CT.dcm
+2026-01-31 10:48:36     208854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/92_CT.dcm
+2026-01-31 10:48:25     207640 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/93_CT.dcm
+2026-01-31 10:48:25     206660 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/94_CT.dcm
+2026-01-31 10:48:37     205692 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/95_CT.dcm
+2026-01-31 10:48:25     205284 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/96_CT.dcm
+2026-01-31 10:48:35     205268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/97_CT.dcm
+2026-01-31 10:48:36     205776 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/98_CT.dcm
+2026-01-31 10:48:25     206060 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/99_CT.dcm
+2026-01-31 10:48:38     187982 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/CHEST W/9_CT.dcm
+2026-01-31 10:48:25     264308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/100_CT.dcm
+2026-01-31 10:48:36     263448 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/101_CT.dcm
+2026-01-31 10:48:25     263754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/102_CT.dcm
+2026-01-31 10:48:37     264322 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/103_CT.dcm
+2026-01-31 10:48:36     263870 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/104_CT.dcm
+2026-01-31 10:48:25     262924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/105_CT.dcm
+2026-01-31 10:48:37     263082 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/106_CT.dcm
+2026-01-31 10:48:25     263624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/107_CT.dcm
+2026-01-31 10:48:25     263546 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/108_CT.dcm
+2026-01-31 10:48:35     262830 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/109_CT.dcm
+2026-01-31 10:48:25     250528 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/10_CT.dcm
+2026-01-31 10:48:25     262800 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/110_CT.dcm
+2026-01-31 10:48:36     263520 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/111_CT.dcm
+2026-01-31 10:48:25     263838 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/112_CT.dcm
+2026-01-31 10:48:38     263728 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/113_CT.dcm
+2026-01-31 10:48:36     264460 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/114_CT.dcm
+2026-01-31 10:48:25     265378 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/115_CT.dcm
+2026-01-31 10:48:36     266128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/116_CT.dcm
+2026-01-31 10:48:25     266268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/117_CT.dcm
+2026-01-31 10:48:25     267134 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/118_CT.dcm
+2026-01-31 10:48:36     268698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/119_CT.dcm
+2026-01-31 10:48:37     250670 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/11_CT.dcm
+2026-01-31 10:48:38     267390 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/120_CT.dcm
+2026-01-31 10:48:25     265894 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/121_CT.dcm
+2026-01-31 10:48:36     265446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/122_CT.dcm
+2026-01-31 10:48:25     265766 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/123_CT.dcm
+2026-01-31 10:48:25     265476 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/124_CT.dcm
+2026-01-31 10:48:35     264786 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/125_CT.dcm
+2026-01-31 10:48:25     264656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/126_CT.dcm
+2026-01-31 10:48:36     265070 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/127_CT.dcm
+2026-01-31 10:48:36     265120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/128_CT.dcm
+2026-01-31 10:48:25     264584 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/129_CT.dcm
+2026-01-31 10:48:25     250014 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/12_CT.dcm
+2026-01-31 10:48:36     264728 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/130_CT.dcm
+2026-01-31 10:48:25     264788 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/131_CT.dcm
+2026-01-31 10:48:38     264222 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/132_CT.dcm
+2026-01-31 10:48:25     263254 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/133_CT.dcm
+2026-01-31 10:48:25     263394 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/134_CT.dcm
+2026-01-31 10:48:40     264318 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/135_CT.dcm
+2026-01-31 10:48:25     264056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/136_CT.dcm
+2026-01-31 10:48:36     263256 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/137_CT.dcm
+2026-01-31 10:48:38     263058 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/138_CT.dcm
+2026-01-31 10:48:25     263590 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/139_CT.dcm
+2026-01-31 10:48:36     249724 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/13_CT.dcm
+2026-01-31 10:48:36     263536 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/140_CT.dcm
+2026-01-31 10:48:25     263220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/141_CT.dcm
+2026-01-31 10:48:36     262714 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/142_CT.dcm
+2026-01-31 10:48:25     262910 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/143_CT.dcm
+2026-01-31 10:48:25     263042 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/144_CT.dcm
+2026-01-31 10:48:40     262584 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/145_CT.dcm
+2026-01-31 10:48:25     262916 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/146_CT.dcm
+2026-01-31 10:48:36     263114 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/147_CT.dcm
+2026-01-31 10:48:38     262682 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/148_CT.dcm
+2026-01-31 10:48:25     262018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/149_CT.dcm
+2026-01-31 10:48:35     250282 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/14_CT.dcm
+2026-01-31 10:48:35     262228 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/150_CT.dcm
+2026-01-31 10:48:25     263202 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/151_CT.dcm
+2026-01-31 10:48:38     263282 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/152_CT.dcm
+2026-01-31 10:48:25     262484 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/153_CT.dcm
+2026-01-31 10:48:25     262268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/154_CT.dcm
+2026-01-31 10:48:36     262360 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/155_CT.dcm
+2026-01-31 10:48:25     261818 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/156_CT.dcm
+2026-01-31 10:48:36     261268 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/157_CT.dcm
+2026-01-31 10:48:36     261124 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/158_CT.dcm
+2026-01-31 10:48:25     261374 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/159_CT.dcm
+2026-01-31 10:48:25     250600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/15_CT.dcm
+2026-01-31 10:48:25     261626 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/160_CT.dcm
+2026-01-31 10:48:36     261454 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/161_CT.dcm
+2026-01-31 10:48:25     261692 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/162_CT.dcm
+2026-01-31 10:48:41     262470 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/163_CT.dcm
+2026-01-31 10:48:36     262184 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/164_CT.dcm
+2026-01-31 10:48:25     261484 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/165_CT.dcm
+2026-01-31 10:48:38     261634 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/166_CT.dcm
+2026-01-31 10:48:25     262446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/167_CT.dcm
+2026-01-31 10:48:25     262504 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/168_CT.dcm
+2026-01-31 10:48:38     261620 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/169_CT.dcm
+2026-01-31 10:48:38     250236 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/16_CT.dcm
+2026-01-31 10:48:25     261428 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/170_CT.dcm
+2026-01-31 10:48:36     262524 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/171_CT.dcm
+2026-01-31 10:48:25     265104 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/172_CT.dcm
+2026-01-31 10:48:35     266856 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/173_CT.dcm
+2026-01-31 10:48:35     268782 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/174_CT.dcm
+2026-01-31 10:48:25     271502 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/175_CT.dcm
+2026-01-31 10:48:36     271558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/176_CT.dcm
+2026-01-31 10:48:25     270834 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/177_CT.dcm
+2026-01-31 10:48:25     269518 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/178_CT.dcm
+2026-01-31 10:48:36     269326 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/179_CT.dcm
+2026-01-31 10:48:25     250010 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/17_CT.dcm
+2026-01-31 10:48:43     269258 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/180_CT.dcm
+2026-01-31 10:48:25     269348 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/181_CT.dcm
+2026-01-31 10:48:38     271182 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/182_CT.dcm
+2026-01-31 10:48:25     272980 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/183_CT.dcm
+2026-01-31 10:48:25     272452 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/184_CT.dcm
+2026-01-31 10:48:37     270136 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/185_CT.dcm
+2026-01-31 10:48:25     267794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/186_CT.dcm
+2026-01-31 10:48:35     267246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/187_CT.dcm
+2026-01-31 10:48:38     266164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/188_CT.dcm
+2026-01-31 10:48:25     264382 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/189_CT.dcm
+2026-01-31 10:48:25     250578 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/18_CT.dcm
+2026-01-31 10:48:36     262574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/190_CT.dcm
+2026-01-31 10:48:25     263558 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/191_CT.dcm
+2026-01-31 10:48:38     263816 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/192_CT.dcm
+2026-01-31 10:48:25     262842 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/193_CT.dcm
+2026-01-31 10:48:25     262116 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/194_CT.dcm
+2026-01-31 10:48:35     262924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/195_CT.dcm
+2026-01-31 10:48:25     263678 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/196_CT.dcm
+2026-01-31 10:48:35     263788 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/197_CT.dcm
+2026-01-31 10:48:36     264140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/198_CT.dcm
+2026-01-31 10:48:25     265156 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/199_CT.dcm
+2026-01-31 10:48:36     251034 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/19_CT.dcm
+2026-01-31 10:48:43     249090 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/1_CT.dcm
+2026-01-31 10:48:25     265624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/200_CT.dcm
+2026-01-31 10:48:36     265108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/201_CT.dcm
+2026-01-31 10:48:25     265164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/202_CT.dcm
+2026-01-31 10:48:38     266300 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/203_CT.dcm
+2026-01-31 10:48:38     266340 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/204_CT.dcm
+2026-01-31 10:48:25     265534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/205_CT.dcm
+2026-01-31 10:48:37     265270 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/206_CT.dcm
+2026-01-31 10:48:25     265916 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/207_CT.dcm
+2026-01-31 10:48:25     266054 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/208_CT.dcm
+2026-01-31 10:48:39     265652 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/209_CT.dcm
+2026-01-31 10:48:35     250636 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/20_CT.dcm
+2026-01-31 10:48:25     265504 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/210_CT.dcm
+2026-01-31 10:48:35     266190 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/211_CT.dcm
+2026-01-31 10:48:25     266540 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/212_CT.dcm
+2026-01-31 10:48:35     265924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/213_CT.dcm
+2026-01-31 10:48:36     266214 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/214_CT.dcm
+2026-01-31 10:48:25     267016 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/215_CT.dcm
+2026-01-31 10:48:43     267276 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/216_CT.dcm
+2026-01-31 10:48:25     266540 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/217_CT.dcm
+2026-01-31 10:48:25     266384 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/218_CT.dcm
+2026-01-31 10:48:36     266948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/219_CT.dcm
+2026-01-31 10:48:25     250222 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/21_CT.dcm
+2026-01-31 10:48:36     267214 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/220_CT.dcm
+2026-01-31 10:48:25     266460 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/221_CT.dcm
+2026-01-31 10:48:36     265652 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/222_CT.dcm
+2026-01-31 10:48:25     265894 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/223_CT.dcm
+2026-01-31 10:48:25     266206 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/224_CT.dcm
+2026-01-31 10:48:38     265562 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/225_CT.dcm
+2026-01-31 10:48:25     264936 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/226_CT.dcm
+2026-01-31 10:48:37     265124 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/227_CT.dcm
+2026-01-31 10:48:40     265142 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/228_CT.dcm
+2026-01-31 10:48:25     264296 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/229_CT.dcm
+2026-01-31 10:48:35     251300 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/22_CT.dcm
+2026-01-31 10:48:35     264088 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/230_CT.dcm
+2026-01-31 10:48:25     264702 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/231_CT.dcm
+2026-01-31 10:48:43     265204 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/232_CT.dcm
+2026-01-31 10:48:25     264880 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/233_CT.dcm
+2026-01-31 10:48:25     264346 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/234_CT.dcm
+2026-01-31 10:48:36     265288 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/235_CT.dcm
+2026-01-31 10:48:25     266024 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/236_CT.dcm
+2026-01-31 10:48:36     265746 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/237_CT.dcm
+2026-01-31 10:48:48     265708 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/238_CT.dcm
+2026-01-31 10:48:25     266548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/239_CT.dcm
+2026-01-31 10:48:25     251898 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/23_CT.dcm
+2026-01-31 10:48:38     267286 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/240_CT.dcm
+2026-01-31 10:48:25     266974 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/241_CT.dcm
+2026-01-31 10:48:36     266586 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/242_CT.dcm
+2026-01-31 10:48:25     267058 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/243_CT.dcm
+2026-01-31 10:48:25     267532 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/244_CT.dcm
+2026-01-31 10:48:36     267034 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/245_CT.dcm
+2026-01-31 10:48:25     266642 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/246_CT.dcm
+2026-01-31 10:48:38     267244 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/247_CT.dcm
+2026-01-31 10:48:35     267424 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/248_CT.dcm
+2026-01-31 10:48:25     266916 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/249_CT.dcm
+2026-01-31 10:48:25     251006 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/24_CT.dcm
+2026-01-31 10:48:35     266722 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/250_CT.dcm
+2026-01-31 10:48:25     267578 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/251_CT.dcm
+2026-01-31 10:48:49     268282 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/252_CT.dcm
+2026-01-31 10:48:25     267804 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/253_CT.dcm
+2026-01-31 10:48:25     267452 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/254_CT.dcm
+2026-01-31 10:48:37     268090 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/255_CT.dcm
+2026-01-31 10:48:25     268566 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/256_CT.dcm
+2026-01-31 10:48:40     268246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/257_CT.dcm
+2026-01-31 10:48:38     268396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/258_CT.dcm
+2026-01-31 10:48:25     269242 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/259_CT.dcm
+2026-01-31 10:48:36     250190 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/25_CT.dcm
+2026-01-31 10:48:25     269486 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/260_CT.dcm
+2026-01-31 10:48:37     269058 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/261_CT.dcm
+2026-01-31 10:48:25     268454 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/262_CT.dcm
+2026-01-31 10:48:36     269122 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/263_CT.dcm
+2026-01-31 10:48:36     269418 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/264_CT.dcm
+2026-01-31 10:48:25     268818 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/265_CT.dcm
+2026-01-31 10:48:36     268440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/266_CT.dcm
+2026-01-31 10:48:25     268836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/267_CT.dcm
+2026-01-31 10:48:25     269244 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/268_CT.dcm
+2026-01-31 10:48:43     268756 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/269_CT.dcm
+2026-01-31 10:48:25     250682 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/26_CT.dcm
+2026-01-31 10:48:25     268330 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/270_CT.dcm
+2026-01-31 10:48:36     269118 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/271_CT.dcm
+2026-01-31 10:48:25     269648 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/272_CT.dcm
+2026-01-31 10:48:49     269010 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/273_CT.dcm
+2026-01-31 10:48:38     268300 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/274_CT.dcm
+2026-01-31 10:48:25     268760 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/275_CT.dcm
+2026-01-31 10:48:38     269020 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/276_CT.dcm
+2026-01-31 10:48:25     268222 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/277_CT.dcm
+2026-01-31 10:48:25     267682 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/278_CT.dcm
+2026-01-31 10:48:37     268218 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/279_CT.dcm
+2026-01-31 10:48:36     250710 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/27_CT.dcm
+2026-01-31 10:48:39     268442 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/280_CT.dcm
+2026-01-31 10:48:25     267938 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/281_CT.dcm
+2026-01-31 10:48:36     267422 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/282_CT.dcm
+2026-01-31 10:48:25     267924 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/283_CT.dcm
+2026-01-31 10:48:25     268374 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/284_CT.dcm
+2026-01-31 10:48:36     267742 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/285_CT.dcm
+2026-01-31 10:48:25     267404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/286_CT.dcm
+2026-01-31 10:48:37     267850 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/287_CT.dcm
+2026-01-31 10:48:37     268264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/288_CT.dcm
+2026-01-31 10:48:25     267816 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/289_CT.dcm
+2026-01-31 10:48:36     250084 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/28_CT.dcm
+2026-01-31 10:48:43     267536 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/290_CT.dcm
+2026-01-31 10:48:25     268098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/291_CT.dcm
+2026-01-31 10:48:40     268640 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/292_CT.dcm
+2026-01-31 10:48:25     267936 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/293_CT.dcm
+2026-01-31 10:48:25     266970 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/294_CT.dcm
+2026-01-31 10:48:36     267306 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/295_CT.dcm
+2026-01-31 10:48:25     267836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/296_CT.dcm
+2026-01-31 10:48:49     267410 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/297_CT.dcm
+2026-01-31 10:48:39     266456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/298_CT.dcm
+2026-01-31 10:48:25     266602 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/299_CT.dcm
+2026-01-31 10:48:25     249518 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/29_CT.dcm
+2026-01-31 10:48:25     249998 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/2_CT.dcm
+2026-01-31 10:48:38     267296 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/300_CT.dcm
+2026-01-31 10:48:25     266806 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/301_CT.dcm
+2026-01-31 10:48:37     266304 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/302_CT.dcm
+2026-01-31 10:48:25     266450 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/303_CT.dcm
+2026-01-31 10:48:25     266878 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/304_CT.dcm
+2026-01-31 10:48:36     266642 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/305_CT.dcm
+2026-01-31 10:48:25     265940 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/306_CT.dcm
+2026-01-31 10:48:36     266438 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/307_CT.dcm
+2026-01-31 10:48:36     266958 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/308_CT.dcm
+2026-01-31 10:48:25     266382 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/309_CT.dcm
+2026-01-31 10:48:37     250152 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/30_CT.dcm
+2026-01-31 10:48:36     265620 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/310_CT.dcm
+2026-01-31 10:48:25     266030 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/311_CT.dcm
+2026-01-31 10:48:37     266830 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/312_CT.dcm
+2026-01-31 10:48:25     266420 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/313_CT.dcm
+2026-01-31 10:48:25     265648 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/314_CT.dcm
+2026-01-31 10:48:37     266232 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/315_CT.dcm
+2026-01-31 10:48:25     266698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/316_CT.dcm
+2026-01-31 10:48:39     266566 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/317_CT.dcm
+2026-01-31 10:48:38     266070 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/318_CT.dcm
+2026-01-31 10:48:25     266452 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/319_CT.dcm
+2026-01-31 10:48:25     250416 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/31_CT.dcm
+2026-01-31 10:48:25     266968 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/320_CT.dcm
+2026-01-31 10:48:50     266740 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/321_CT.dcm
+2026-01-31 10:48:25     266246 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/322_CT.dcm
+2026-01-31 10:48:40     266754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/323_CT.dcm
+2026-01-31 10:48:36     267210 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/324_CT.dcm
+2026-01-31 10:48:25     266774 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/325_CT.dcm
+2026-01-31 10:48:37     266092 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/326_CT.dcm
+2026-01-31 10:48:25     266082 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/327_CT.dcm
+2026-01-31 10:48:25     266698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/328_CT.dcm
+2026-01-31 10:48:36     266062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/329_CT.dcm
+2026-01-31 10:48:36     249588 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/32_CT.dcm
+2026-01-31 10:48:25     265332 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/330_CT.dcm
+2026-01-31 10:48:36     265884 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/331_CT.dcm
+2026-01-31 10:48:25     266668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/332_CT.dcm
+2026-01-31 10:48:37     266544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/333_CT.dcm
+2026-01-31 10:48:39     265564 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/334_CT.dcm
+2026-01-31 10:48:25     265656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/335_CT.dcm
+2026-01-31 10:48:37     266340 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/336_CT.dcm
+2026-01-31 10:48:25     266008 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/337_CT.dcm
+2026-01-31 10:48:25     265548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/338_CT.dcm
+2026-01-31 10:48:37     265704 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/339_CT.dcm
+2026-01-31 10:48:25     248596 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/33_CT.dcm
+2026-01-31 10:48:25     266056 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/340_CT.dcm
+2026-01-31 10:48:36     265404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/341_CT.dcm
+2026-01-31 10:48:25     264700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/342_CT.dcm
+2026-01-31 10:48:36     265010 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/343_CT.dcm
+2026-01-31 10:48:41     265992 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/344_CT.dcm
+2026-01-31 10:48:25     266140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/345_CT.dcm
+2026-01-31 10:48:36     265560 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/346_CT.dcm
+2026-01-31 10:48:25     266164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/347_CT.dcm
+2026-01-31 10:48:25     267166 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/348_CT.dcm
+2026-01-31 10:48:36     266926 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/349_CT.dcm
+2026-01-31 10:48:25     248906 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/34_CT.dcm
+2026-01-31 10:48:25     266366 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/350_CT.dcm
+2026-01-31 10:48:37     266624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/351_CT.dcm
+2026-01-31 10:48:25     267296 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/352_CT.dcm
+2026-01-31 10:48:39     267530 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/353_CT.dcm
+2026-01-31 10:48:37     267308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/354_CT.dcm
+2026-01-31 10:48:25     267818 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/355_CT.dcm
+2026-01-31 10:48:37     268436 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/356_CT.dcm
+2026-01-31 10:48:25     268170 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/357_CT.dcm
+2026-01-31 10:48:25     267464 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/358_CT.dcm
+2026-01-31 10:48:41     267650 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/359_CT.dcm
+2026-01-31 10:48:36     249244 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/35_CT.dcm
+2026-01-31 10:48:25     248798 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/36_CT.dcm
+2026-01-31 10:48:36     248432 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/37_CT.dcm
+2026-01-31 10:48:36     249106 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/38_CT.dcm
+2026-01-31 10:48:25     249718 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/39_CT.dcm
+2026-01-31 10:48:36     250656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/3_CT.dcm
+2026-01-31 10:48:37     249334 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/40_CT.dcm
+2026-01-31 10:48:25     248456 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/41_CT.dcm
+2026-01-31 10:48:37     248560 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/42_CT.dcm
+2026-01-31 10:48:25     248586 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/43_CT.dcm
+2026-01-31 10:48:25     247866 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/44_CT.dcm
+2026-01-31 10:48:36     247582 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/45_CT.dcm
+2026-01-31 10:48:25     248140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/46_CT.dcm
+2026-01-31 10:48:41     248376 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/47_CT.dcm
+2026-01-31 10:48:36     247946 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/48_CT.dcm
+2026-01-31 10:48:25     247708 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/49_CT.dcm
+2026-01-31 10:48:37     249800 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/4_CT.dcm
+2026-01-31 10:48:38     248302 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/50_CT.dcm
+2026-01-31 10:48:25     248538 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/51_CT.dcm
+2026-01-31 10:48:38     248316 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/52_CT.dcm
+2026-01-31 10:48:25     248076 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/53_CT.dcm
+2026-01-31 10:48:25     249152 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/54_CT.dcm
+2026-01-31 10:48:38     250108 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/55_CT.dcm
+2026-01-31 10:48:25     250148 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/56_CT.dcm
+2026-01-31 10:48:36     250052 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/57_CT.dcm
+2026-01-31 10:48:37     250818 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/58_CT.dcm
+2026-01-31 10:48:25     251672 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/59_CT.dcm
+2026-01-31 10:48:25     249276 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/5_CT.dcm
+2026-01-31 10:48:25     251628 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/60_CT.dcm
+2026-01-31 10:48:38     251180 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/61_CT.dcm
+2026-01-31 10:48:25     251466 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/62_CT.dcm
+2026-01-31 10:48:36     251928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/63_CT.dcm
+2026-01-31 10:48:36     251854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/64_CT.dcm
+2026-01-31 10:48:25     251970 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/65_CT.dcm
+2026-01-31 10:48:38     253180 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/66_CT.dcm
+2026-01-31 10:48:25     253862 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/67_CT.dcm
+2026-01-31 10:48:25     253700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/68_CT.dcm
+2026-01-31 10:48:36     253776 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/69_CT.dcm
+2026-01-31 10:48:37     250604 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/6_CT.dcm
+2026-01-31 10:48:25     254866 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/70_CT.dcm
+2026-01-31 10:48:37     256238 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/71_CT.dcm
+2026-01-31 10:48:25     256254 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/72_CT.dcm
+2026-01-31 10:48:38     256078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/73_CT.dcm
+2026-01-31 10:48:36     256718 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/74_CT.dcm
+2026-01-31 10:48:25     258278 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/75_CT.dcm
+2026-01-31 10:48:39     258794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/76_CT.dcm
+2026-01-31 10:48:25     259026 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/77_CT.dcm
+2026-01-31 10:48:25     259442 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/78_CT.dcm
+2026-01-31 10:48:37     260466 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/79_CT.dcm
+2026-01-31 10:48:25     251354 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/7_CT.dcm
+2026-01-31 10:48:36     261006 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/80_CT.dcm
+2026-01-31 10:48:25     261252 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/81_CT.dcm
+2026-01-31 10:48:36     261840 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/82_CT.dcm
+2026-01-31 10:48:25     262140 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/83_CT.dcm
+2026-01-31 10:48:25     261602 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/84_CT.dcm
+2026-01-31 10:48:37     262164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/85_CT.dcm
+2026-01-31 10:48:25     266220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/86_CT.dcm
+2026-01-31 10:48:38     269166 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/87_CT.dcm
+2026-01-31 10:48:37     269430 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/88_CT.dcm
+2026-01-31 10:48:25     267696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/89_CT.dcm
+2026-01-31 10:48:25     250668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/8_CT.dcm
+2026-01-31 10:48:38     268548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/90_CT.dcm
+2026-01-31 10:48:25     269548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/91_CT.dcm
+2026-01-31 10:48:37     268426 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/92_CT.dcm
+2026-01-31 10:48:25     266932 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/93_CT.dcm
+2026-01-31 10:48:25     265600 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/94_CT.dcm
+2026-01-31 10:48:39     264696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/95_CT.dcm
+2026-01-31 10:48:25     264308 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/96_CT.dcm
+2026-01-31 10:48:36     264322 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/97_CT.dcm
+2026-01-31 10:48:36     264698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/98_CT.dcm
+2026-01-31 10:48:25     265006 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/99_CT.dcm
+2026-01-31 10:48:38     250040 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/LUNG WINDOWS/9_CT.dcm
+2026-01-31 10:48:38       4904 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/RadiologyReport.txt
+2026-01-31 10:48:25     166944 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/Topogram  0.6  T20f/1_CT.dcm
+2026-01-31 10:48:36     166944 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-4d5f9ecd/Topogram  0.6  T20f/2_CT.dcm
+2026-01-31 10:48:25     259626 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/100_CT.dcm
+2026-01-31 10:48:37     260060 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/101_CT.dcm
+2026-01-31 10:48:26     259574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/102_CT.dcm
+2026-01-31 10:48:38     259050 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/103_CT.dcm
+2026-01-31 10:48:38     259366 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/104_CT.dcm
+2026-01-31 10:48:25     259274 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/105_CT.dcm
+2026-01-31 10:48:38     258414 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/106_CT.dcm
+2026-01-31 10:48:25     259404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/107_CT.dcm
+2026-01-31 10:48:25     260034 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/108_CT.dcm
+2026-01-31 10:48:37     261298 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/109_CT.dcm
+2026-01-31 10:48:37     241438 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/10_CT.dcm
+2026-01-31 10:48:25     262396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/110_CT.dcm
+2026-01-31 10:48:39     264724 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/111_CT.dcm
+2026-01-31 10:48:25     267432 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/112_CT.dcm
+2026-01-31 10:48:38     271412 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/113_CT.dcm
+2026-01-31 10:48:38     273446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/114_CT.dcm
+2026-01-31 10:48:25     275584 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/115_CT.dcm
+2026-01-31 10:48:36     277098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/116_CT.dcm
+2026-01-31 10:48:25     276836 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/117_CT.dcm
+2026-01-31 10:48:25     276800 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/118_CT.dcm
+2026-01-31 10:48:36     278428 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/119_CT.dcm
+2026-01-31 10:48:25     242682 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/11_CT.dcm
+2026-01-31 10:48:39     278440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/120_CT.dcm
+2026-01-31 10:48:25     277398 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/121_CT.dcm
+2026-01-31 10:48:37     278194 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/122_CT.dcm
+2026-01-31 10:48:25     277134 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/123_CT.dcm
+2026-01-31 10:48:25     275950 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/124_CT.dcm
+2026-01-31 10:48:36     275128 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/125_CT.dcm
+2026-01-31 10:48:25     274996 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/126_CT.dcm
+2026-01-31 10:48:38     272590 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/127_CT.dcm
+2026-01-31 10:48:40     272198 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/128_CT.dcm
+2026-01-31 10:48:25     269574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/129_CT.dcm
+2026-01-31 10:48:36     242828 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/12_CT.dcm
+2026-01-31 10:48:37     267564 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/130_CT.dcm
+2026-01-31 10:48:25     267686 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/131_CT.dcm
+2026-01-31 10:48:37     267606 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/132_CT.dcm
+2026-01-31 10:48:25     267168 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/133_CT.dcm
+2026-01-31 10:48:25     268496 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/134_CT.dcm
+2026-01-31 10:48:39     268460 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/135_CT.dcm
+2026-01-31 10:48:25     267968 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/136_CT.dcm
+2026-01-31 10:48:39     268018 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/137_CT.dcm
+2026-01-31 10:48:36     268812 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/138_CT.dcm
+2026-01-31 10:48:25     268404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/139_CT.dcm
+2026-01-31 10:48:25     243280 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/13_CT.dcm
+2026-01-31 10:48:39     268922 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/140_CT.dcm
+2026-01-31 10:48:25     269396 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/141_CT.dcm
+2026-01-31 10:48:38     268814 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/142_CT.dcm
+2026-01-31 10:48:25     269506 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/143_CT.dcm
+2026-01-31 10:48:25     269516 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/144_CT.dcm
+2026-01-31 10:48:38     269130 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/145_CT.dcm
+2026-01-31 10:48:25     271182 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/146_CT.dcm
+2026-01-31 10:48:36     271750 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/147_CT.dcm
+2026-01-31 10:48:37     273118 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/148_CT.dcm
+2026-01-31 10:48:25     274854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/149_CT.dcm
+2026-01-31 10:48:25     244434 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/14_CT.dcm
+2026-01-31 10:48:36     275264 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/150_CT.dcm
+2026-01-31 10:48:25     274962 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/151_CT.dcm
+2026-01-31 10:48:39     275472 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/152_CT.dcm
+2026-01-31 10:48:25     275370 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/153_CT.dcm
+2026-01-31 10:48:25     273976 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/154_CT.dcm
+2026-01-31 10:48:40     272028 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/155_CT.dcm
+2026-01-31 10:48:25     269990 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/156_CT.dcm
+2026-01-31 10:48:38     268462 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/157_CT.dcm
+2026-01-31 10:48:39     267862 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/158_CT.dcm
+2026-01-31 10:48:25     268472 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/159_CT.dcm
+2026-01-31 10:48:39     244502 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/15_CT.dcm
+2026-01-31 10:48:26     268016 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/160_CT.dcm
+2026-01-31 10:48:38     268870 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/161_CT.dcm
+2026-01-31 10:48:25     268278 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/162_CT.dcm
+2026-01-31 10:48:42     266822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/163_CT.dcm
+2026-01-31 10:48:36     265586 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/164_CT.dcm
+2026-01-31 10:48:25     265030 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/165_CT.dcm
+2026-01-31 10:48:36     263832 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/166_CT.dcm
+2026-01-31 10:48:25     264700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/167_CT.dcm
+2026-01-31 10:48:25     264726 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/168_CT.dcm
+2026-01-31 10:48:37     264592 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/169_CT.dcm
+2026-01-31 10:48:25     244756 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/16_CT.dcm
+2026-01-31 10:48:26     264838 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/170_CT.dcm
+2026-01-31 10:48:37     265100 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/171_CT.dcm
+2026-01-31 10:48:25     264310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/172_CT.dcm
+2026-01-31 10:48:36     265266 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/173_CT.dcm
+2026-01-31 10:48:36     265578 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/174_CT.dcm
+2026-01-31 10:48:25     265774 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/175_CT.dcm
+2026-01-31 10:48:38     267212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/176_CT.dcm
+2026-01-31 10:48:26     268644 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/177_CT.dcm
+2026-01-31 10:48:39     245218 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/17_CT.dcm
+2026-01-31 10:48:41     246198 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/18_CT.dcm
+2026-01-31 10:48:25     245546 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/19_CT.dcm
+2026-01-31 10:48:25     243954 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/1_CT.dcm
+2026-01-31 10:48:26     247000 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/20_CT.dcm
+2026-01-31 10:48:39     247360 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/21_CT.dcm
+2026-01-31 10:48:25     247442 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/22_CT.dcm
+2026-01-31 10:48:39     248200 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/23_CT.dcm
+2026-01-31 10:48:42     247872 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/24_CT.dcm
+2026-01-31 10:48:25     247950 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/25_CT.dcm
+2026-01-31 10:48:37     248098 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/26_CT.dcm
+2026-01-31 10:48:25     249038 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/27_CT.dcm
+2026-01-31 10:48:25     248642 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/28_CT.dcm
+2026-01-31 10:48:39     250230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/29_CT.dcm
+2026-01-31 10:48:37     243628 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/2_CT.dcm
+2026-01-31 10:48:25     250448 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/30_CT.dcm
+2026-01-31 10:48:39     250862 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/31_CT.dcm
+2026-01-31 10:48:25     251772 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/32_CT.dcm
+2026-01-31 10:48:37     252044 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/33_CT.dcm
+2026-01-31 10:48:37     251860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/34_CT.dcm
+2026-01-31 10:48:25     251934 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/35_CT.dcm
+2026-01-31 10:48:36     252726 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/36_CT.dcm
+2026-01-31 10:48:26     251510 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/37_CT.dcm
+2026-01-31 10:48:25     252816 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/38_CT.dcm
+2026-01-31 10:48:43     252948 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/39_CT.dcm
+2026-01-31 10:48:25     242904 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/3_CT.dcm
+2026-01-31 10:48:26     253026 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/40_CT.dcm
+2026-01-31 10:48:39     254364 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/41_CT.dcm
+2026-01-31 10:48:25     254656 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/42_CT.dcm
+2026-01-31 10:48:37     255078 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/43_CT.dcm
+2026-01-31 10:48:38     255762 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/44_CT.dcm
+2026-01-31 10:48:26     256860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/45_CT.dcm
+2026-01-31 10:48:39     255672 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/46_CT.dcm
+2026-01-31 10:48:25     256440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/47_CT.dcm
+2026-01-31 10:48:25     256168 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/48_CT.dcm
+2026-01-31 10:48:41     256046 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/49_CT.dcm
+2026-01-31 10:48:25     241712 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/4_CT.dcm
+2026-01-31 10:48:26     256686 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/50_CT.dcm
+2026-01-31 10:48:37     257322 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/51_CT.dcm
+2026-01-31 10:48:25     257086 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/52_CT.dcm
+2026-01-31 10:48:39     258348 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/53_CT.dcm
+2026-01-31 10:48:39     259300 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/54_CT.dcm
+2026-01-31 10:48:25     258418 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/55_CT.dcm
+2026-01-31 10:48:36     259376 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/56_CT.dcm
+2026-01-31 10:48:26     258464 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/57_CT.dcm
+2026-01-31 10:48:26     258222 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/58_CT.dcm
+2026-01-31 10:48:39     258274 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/59_CT.dcm
+2026-01-31 10:48:37     242294 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/5_CT.dcm
+2026-01-31 10:48:38     258480 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/60_CT.dcm
+2026-01-31 10:48:25     258164 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/61_CT.dcm
+2026-01-31 10:48:39     259084 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/62_CT.dcm
+2026-01-31 10:48:26     259518 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/63_CT.dcm
+2026-01-31 10:48:25     258934 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/64_CT.dcm
+2026-01-31 10:48:37     259770 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/65_CT.dcm
+2026-01-31 10:48:25     260332 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/66_CT.dcm
+2026-01-31 10:48:43     260112 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/67_CT.dcm
+2026-01-31 10:48:38     260538 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/68_CT.dcm
+2026-01-31 10:48:26     260676 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/69_CT.dcm
+2026-01-31 10:48:26     241758 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/6_CT.dcm
+2026-01-31 10:48:40     259738 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/70_CT.dcm
+2026-01-31 10:48:25     260304 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/71_CT.dcm
+2026-01-31 10:48:39     260104 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/72_CT.dcm
+2026-01-31 10:48:26     259958 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/73_CT.dcm
+2026-01-31 10:48:25     260592 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/74_CT.dcm
+2026-01-31 10:48:37     260776 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/75_CT.dcm
+2026-01-31 10:48:25     260030 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/76_CT.dcm
+2026-01-31 10:48:37     260604 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/77_CT.dcm
+2026-01-31 10:48:41     260736 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/78_CT.dcm
+2026-01-31 10:48:26     260350 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/79_CT.dcm
+2026-01-31 10:48:40     241226 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/7_CT.dcm
+2026-01-31 10:48:25     260816 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/80_CT.dcm
+2026-01-31 10:48:37     260698 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/81_CT.dcm
+2026-01-31 10:48:25     259750 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/82_CT.dcm
+2026-01-31 10:48:38     260014 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/83_CT.dcm
+2026-01-31 10:48:37     259700 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/84_CT.dcm
+2026-01-31 10:48:25     258256 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/85_CT.dcm
+2026-01-31 10:48:39     259374 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/86_CT.dcm
+2026-01-31 10:48:25     259212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/87_CT.dcm
+2026-01-31 10:48:26     259100 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/88_CT.dcm
+2026-01-31 10:48:43     259676 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/89_CT.dcm
+2026-01-31 10:48:37     241824 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/8_CT.dcm
+2026-01-31 10:48:26     260424 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/90_CT.dcm
+2026-01-31 10:48:38     260534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/91_CT.dcm
+2026-01-31 10:48:25     261238 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/92_CT.dcm
+2026-01-31 10:48:37     261536 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/93_CT.dcm
+2026-01-31 10:48:40     261210 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/94_CT.dcm
+2026-01-31 10:48:26     261638 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/95_CT.dcm
+2026-01-31 10:48:40     261310 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/96_CT.dcm
+2026-01-31 10:48:26     260534 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/97_CT.dcm
+2026-01-31 10:48:26     260786 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/98_CT.dcm
+2026-01-31 10:48:40     260538 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/99_CT.dcm
+2026-01-31 10:48:26     242086 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/BONE/9_CT.dcm
+2026-01-31 10:48:38     203848 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/100_CT.dcm
+2026-01-31 10:48:26     203082 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/101_CT.dcm
+2026-01-31 10:48:41     203548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/102_CT.dcm
+2026-01-31 10:48:26     200922 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/103_CT.dcm
+2026-01-31 10:48:25     198344 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/104_CT.dcm
+2026-01-31 10:48:39     195928 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/105_CT.dcm
+2026-01-31 10:48:26     196366 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/106_CT.dcm
+2026-01-31 10:48:38     195958 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/107_CT.dcm
+2026-01-31 10:48:37     197010 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/108_CT.dcm
+2026-01-31 10:48:26     194614 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/109_CT.dcm
+2026-01-31 10:48:26     176300 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/10_CT.dcm
+2026-01-31 10:48:43     193794 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/110_CT.dcm
+2026-01-31 10:48:26     192284 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/111_CT.dcm
+2026-01-31 10:48:37     193168 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/112_CT.dcm
+2026-01-31 10:48:26     192686 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/113_CT.dcm
+2026-01-31 10:48:26     193296 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/114_CT.dcm
+2026-01-31 10:48:37     192206 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/115_CT.dcm
+2026-01-31 10:48:26     193386 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/116_CT.dcm
+2026-01-31 10:48:38     193220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/117_CT.dcm
+2026-01-31 10:48:37     195544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/118_CT.dcm
+2026-01-31 10:48:40     176446 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/11_CT.dcm
+2026-01-31 10:48:26     177686 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/12_CT.dcm
+2026-01-31 10:48:37     177556 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/13_CT.dcm
+2026-01-31 10:48:40     179668 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/14_CT.dcm
+2026-01-31 10:48:26     179208 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/15_CT.dcm
+2026-01-31 10:48:38     180126 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/16_CT.dcm
+2026-01-31 10:48:25     179744 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/17_CT.dcm
+2026-01-31 10:48:26     180908 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/18_CT.dcm
+2026-01-31 10:48:41     180944 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/19_CT.dcm
+2026-01-31 10:48:26     174404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/1_CT.dcm
+2026-01-31 10:48:40     183062 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/20_CT.dcm
+2026-01-31 10:48:25     183292 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/21_CT.dcm
+2026-01-31 10:48:39     184786 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/22_CT.dcm
+2026-01-31 10:48:25     184220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/23_CT.dcm
+2026-01-31 10:48:26     184822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/24_CT.dcm
+2026-01-31 10:48:37     183970 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/25_CT.dcm
+2026-01-31 10:48:26     185598 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/26_CT.dcm
+2026-01-31 10:48:37     185724 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/27_CT.dcm
+2026-01-31 10:48:43     187544 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/28_CT.dcm
+2026-01-31 10:48:26     187694 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/29_CT.dcm
+2026-01-31 10:48:38     174458 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/2_CT.dcm
+2026-01-31 10:48:37     189302 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/30_CT.dcm
+2026-01-31 10:48:26     188440 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/31_CT.dcm
+2026-01-31 10:48:37     189266 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/32_CT.dcm
+2026-01-31 10:48:26     188566 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/33_CT.dcm
+2026-01-31 10:48:26     190144 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/34_CT.dcm
+2026-01-31 10:48:40     189936 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/35_CT.dcm
+2026-01-31 10:48:26     192324 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/36_CT.dcm
+2026-01-31 10:48:39     191548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/37_CT.dcm
+2026-01-31 10:48:40     191860 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/38_CT.dcm
+2026-01-31 10:48:26     190704 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/39_CT.dcm
+2026-01-31 10:48:26     173126 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/3_CT.dcm
+2026-01-31 10:48:40     191122 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/40_CT.dcm
+2026-01-31 10:48:26     190474 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/41_CT.dcm
+2026-01-31 10:48:43     191998 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/42_CT.dcm
+2026-01-31 10:48:26     191376 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/43_CT.dcm
+2026-01-31 10:48:26     192708 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/44_CT.dcm
+2026-01-31 10:48:40     192404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/45_CT.dcm
+2026-01-31 10:48:26     193328 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/46_CT.dcm
+2026-01-31 10:48:38     192290 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/47_CT.dcm
+2026-01-31 10:48:37     192954 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/48_CT.dcm
+2026-01-31 10:48:26     192516 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/49_CT.dcm
+2026-01-31 10:48:26     173562 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/4_CT.dcm
+2026-01-31 10:48:37     193356 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/50_CT.dcm
+2026-01-31 10:48:26     192574 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/51_CT.dcm
+2026-01-31 10:48:37     193404 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/52_CT.dcm
+2026-01-31 10:48:26     192822 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/53_CT.dcm
+2026-01-31 10:48:26     193338 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/54_CT.dcm
+2026-01-31 10:48:39     191964 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/55_CT.dcm
+2026-01-31 10:48:26     192280 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/56_CT.dcm
+2026-01-31 10:48:41     190626 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/57_CT.dcm
+2026-01-31 10:48:37     191342 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/58_CT.dcm
+2026-01-31 10:48:26     190980 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/59_CT.dcm
+2026-01-31 10:48:40     172548 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/5_CT.dcm
+2026-01-31 10:48:26     192228 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/60_CT.dcm
+2026-01-31 10:48:37     192672 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/61_CT.dcm
+2026-01-31 10:48:26     193964 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/62_CT.dcm
+2026-01-31 10:48:39     193584 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/63_CT.dcm
+2026-01-31 10:48:39     194120 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/64_CT.dcm
+2026-01-31 10:48:26     192754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/65_CT.dcm
+2026-01-31 10:48:40     193526 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/66_CT.dcm
+2026-01-31 10:48:26     192292 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/67_CT.dcm
+2026-01-31 10:48:26     192554 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/68_CT.dcm
+2026-01-31 10:48:37     191674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/69_CT.dcm
+2026-01-31 10:48:26     173538 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/6_CT.dcm
+2026-01-31 10:48:26     192220 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/70_CT.dcm
+2026-01-31 10:48:37     191324 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/71_CT.dcm
+2026-01-31 10:48:26     192572 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/72_CT.dcm
+2026-01-31 10:48:41     193784 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/73_CT.dcm
+2026-01-31 10:48:41     196232 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/74_CT.dcm
+2026-01-31 10:48:26     199274 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/75_CT.dcm
+2026-01-31 10:48:37     204102 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/76_CT.dcm
+2026-01-31 10:48:26     206614 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/77_CT.dcm
+2026-01-31 10:48:26     208346 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/78_CT.dcm
+2026-01-31 10:48:39     208050 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/79_CT.dcm
+2026-01-31 10:48:41     172900 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/7_CT.dcm
+2026-01-31 10:48:37     209734 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/80_CT.dcm
+2026-01-31 10:48:26     207826 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/81_CT.dcm
+2026-01-31 10:48:37     207696 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/82_CT.dcm
+2026-01-31 10:48:26     204854 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/83_CT.dcm
+2026-01-31 10:48:26     203734 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/84_CT.dcm
+2026-01-31 10:48:37     200754 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/85_CT.dcm
+2026-01-31 10:48:26     199230 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/86_CT.dcm
+2026-01-31 10:48:40     195320 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/87_CT.dcm
+2026-01-31 10:48:41     195624 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/88_CT.dcm
+2026-01-31 10:48:26     194820 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/89_CT.dcm
+2026-01-31 10:48:39     174678 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/8_CT.dcm
+2026-01-31 10:48:37     196234 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/90_CT.dcm
+2026-01-31 10:48:26     195146 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/91_CT.dcm
+2026-01-31 10:48:42     195770 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/92_CT.dcm
+2026-01-31 10:48:26     195654 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/93_CT.dcm
+2026-01-31 10:48:26     196756 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/94_CT.dcm
+2026-01-31 10:48:39     196012 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/95_CT.dcm
+2026-01-31 10:48:26     196784 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/96_CT.dcm
+2026-01-31 10:48:38     196344 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/97_CT.dcm
+2026-01-31 10:48:37     199448 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/98_CT.dcm
+2026-01-31 10:48:26     201090 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/99_CT.dcm
+2026-01-31 10:48:26     174546 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/CHEST WO  3.0/9_CT.dcm
+2026-01-31 10:48:39       2212 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/RadiologyReport.txt
+2026-01-31 10:48:26     127392 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/Scout AP  1.0  Tr20/1_CT.dcm
+2026-01-31 10:48:26     118674 Medcase/DBO-1675-Thoracic Coil/Batch 17/Thoracic-Coil-54ce1675/Scout LAT  1.0  Tr20/1_CT.dcm

@@ -1,0 +1,91 @@
+Thoracic-Coil-1dd0aebb
+
+Date: 01/20/2024
+
+CT CHEST, ABDOMEN, AND PELVIS
+
+CLINICAL INDICATION:
+Hypoxia, concern for ARDS.
+
+TECHNIQUE:
+Multiple contiguous axial images were obtained through the chest, abdomen, and pelvis following the administration of IV contrast material. Post processing coronal and sagittal reconstruction images were made from the axial images.
+IV contrast: Yes
+Bowel contrast:  None
+
+COMPARISON:
+CT chest, abdomen, and pelvis [ONMD_DATE 2024]. CT abdomen/pelvis from 4 days prior.
+CHEST
+
+FINDINGS:
+Lower Neck: Tracheostomy tube in appropriate position. Mildly prominent supraclavicular lymph nodes are likely reactive.
+Axilla, Mediastinum, and Hila: No axillary lymphadenopathy. Mildly enlarged mediastinal and hilar lymph nodes are likely reactive.
+Heart and Great Vessels: Moderate cardiomegaly. No significant pericardial effusion. Marked coronary artery calcification. Left chest wall cardiac conduction device remains in place. Right PICC terminates in the superior cavoatrial junction. Marked aortic valvular and mitral annular calcification. Normal caliber thoracic aorta with marked calcific atherosclerosis.
+Airway, Lungs, and Pleura: Central airways are patent. Similar moderate, loculated left pleural effusion with moderate pleural thickening. Persistent moderate right pleural effusion. No pneumothorax. Similar marked patchy consolidation and groundglass opacities bilaterally. Similar marked volume loss within the left lower lobe. Embolization coils in the left upper lobe with similar adjacent loculated fluid.
+Chest Wall and Osseous Structures: Subacute left ninth and 10th rib fractures posteriorly. No destructive osseous lesion. Median sternotomy. Thoracic spondylosis.
+ABDOMEN AND PELVIS FINDINGS:
+Liver and Biliary system: Cirrhotic liver. Stable appearance of the low-attenuation lesion in segment 4 of the left hepatic lobe, incompletely characterized on this single phase CT. No biliary ductal dilatation. Cholelithiasis. Major portal veins are patent.
+Spleen: Changes of splenic embolization with high density embolic material and embolization coils at the splenic hilum. There is a residual large complex fluid collection which again measures 15.9 cm (series 3 image 87) with interval removal of the percutaneous drain.
+Adrenal Glands and Kidneys: Adrenal glands are unremarkable. No hydronephrosis. Tiny nonobstructing right renal calculus.
+Pancreas and Retroperitoneum: Mild fatty infiltration of the pancreas. Similar scattered prominent periportal and retroperitoneal lymph nodes which are likely reactive. Unchanged diffuse retroperitoneal edema, likely secondary to portal hypertension and volume status.
+Aorta and Major Vessels: Abdominal aorta and iliac arteries are normal in caliber with moderate calcific atherosclerosis.
+Bowel, Mesentery, and Peritoneal space: Gastrostomy tube in appropriate position. Distal colonic resection and sigmoid anastomosis. Normal caliber bowel loops. Normal appendix. Persistent mild ascites and diffuse mesenteric edema. No mesenteric adenopathy. No pneumoperitoneum.
+Pelvis: Bladder is decompressed about a Foley catheter. Unchanged perivesicular wall stranding which may again represent cystitis. Moderate prostatomegaly. No pelvic lymphadenopathy.
+Abdominal Wall and Osseous Structures: Moderate diffuse body wall edema. Tiny periumbilical hernia containing nondilated loops of small bowel. Lumbar spondylosis. No destructive osseous lesion. Surgical clips within the bilateral inguinal regions.
+
+IMPRESSION:
+CHEST:
+1.  No significant change in the marked diffuse bilateral patchy consolidation and groundglass opacities within the lungs which may represent ARDS.
+2.  Similar moderate bilateral pleural effusions with features of loculation on the left.
+3.  No obvious pneumothorax.
+ABDOMEN AND PELVIS:
+1.  Priorsplenic embolization and liquefactive splenic necrosis without significant change in size of the large splenic fluid collection with percutaneous drainage catheter in place.
+2.  Similar diffuse volume overload with mild ascites, mesenteric edema, and body wall edema.
+3.  Cirrhosis and portal hypertension. Similar appearance of the segment 4 ablation site, incompletely characterized on this examination.
+By my electronic signature, I attest that I have personally reviewed the images for this examination and formulated the interpretations and opinions expressed in this report
+Finalized by [ONMD_NAME], D.O. on [ONMD_DATE 2024] 1:49 PM.
+
+----------------------------------------------------------------------------------------------------
+
+Date: 01/20/2024
+
+CT CHEST, ABDOMEN, AND PELVIS
+
+CLINICAL INDICATION:
+Hypoxia, concern for ARDS.
+
+TECHNIQUE:
+Multiple contiguous axial images were obtained through the chest, abdomen, and pelvis following the administration of IV contrast material. Post processing coronal and sagittal reconstruction images were made from the axial images.
+IV contrast: Yes
+Bowel contrast:  None
+
+COMPARISON:
+CT chest, abdomen, and pelvis [ONMD_DATE 2024]. CT abdomen/pelvis from 4 days prior.
+CHEST
+
+FINDINGS:
+Lower Neck: Tracheostomy tube in appropriate position. Mildly prominent supraclavicular lymph nodes are likely reactive.
+Axilla, Mediastinum, and Hila: No axillary lymphadenopathy. Mildly enlarged mediastinal and hilar lymph nodes are likely reactive.
+Heart and Great Vessels: Moderate cardiomegaly. No significant pericardial effusion. Marked coronary artery calcification. Left chest wall cardiac conduction device remains in place. Right PICC terminates in the superior cavoatrial junction. Marked aortic valvular and mitral annular calcification. Normal caliber thoracic aorta with marked calcific atherosclerosis.
+Airway, Lungs, and Pleura: Central airways are patent. Similar moderate, loculated left pleural effusion with moderate pleural thickening. Persistent moderate right pleural effusion. No pneumothorax. Similar marked patchy consolidation and groundglass opacities bilaterally. Similar marked volume loss within the left lower lobe. Embolization coils in the left upper lobe with similar adjacent loculated fluid.
+Chest Wall and Osseous Structures: Subacute left ninth and 10th rib fractures posteriorly. No destructive osseous lesion. Median sternotomy. Thoracic spondylosis.
+ABDOMEN AND PELVIS FINDINGS:
+Liver and Biliary system: Cirrhotic liver. Stable appearance of the low-attenuation lesion in segment 4 of the left hepatic lobe, incompletely characterized on this single phase CT. No biliary ductal dilatation. Cholelithiasis. Major portal veins are patent.
+Spleen: Changes of splenic embolization with high density embolic material and embolization coils at the splenic hilum. There is a residual large complex fluid collection which again measures 15.9 cm (series 3 image 87) with interval removal of the percutaneous drain.
+Adrenal Glands and Kidneys: Adrenal glands are unremarkable. No hydronephrosis. Tiny nonobstructing right renal calculus.
+Pancreas and Retroperitoneum: Mild fatty infiltration of the pancreas. Similar scattered prominent periportal and retroperitoneal lymph nodes which are likely reactive. Unchanged diffuse retroperitoneal edema, likely secondary to portal hypertension and volume status.
+Aorta and Major Vessels: Abdominal aorta and iliac arteries are normal in caliber with moderate calcific atherosclerosis.
+Bowel, Mesentery, and Peritoneal space: Gastrostomy tube in appropriate position. Distal colonic resection and sigmoid anastomosis. Normal caliber bowel loops. Normal appendix. Persistent mild ascites and diffuse mesenteric edema. No mesenteric adenopathy. No pneumoperitoneum.
+Pelvis: Bladder is decompressed about a Foley catheter. Unchanged perivesicular wall stranding which may again represent cystitis. Moderate prostatomegaly. No pelvic lymphadenopathy.
+Abdominal Wall and Osseous Structures: Moderate diffuse body wall edema. Tiny periumbilical hernia containing nondilated loops of small bowel. Lumbar spondylosis. No destructive osseous lesion. Surgical clips within the bilateral inguinal regions.
+
+IMPRESSION:
+CHEST:
+1.  No significant change in the marked diffuse bilateral patchy consolidation and groundglass opacities within the lungs which may represent ARDS.
+2.  Similar moderate bilateral pleural effusions with features of loculation on the left.
+3.  No obvious pneumothorax.
+ABDOMEN AND PELVIS:
+1.  Priorsplenic embolization and liquefactive splenic necrosis without significant change in size of the large splenic fluid collection with percutaneous drainage catheter in place.
+2.  Similar diffuse volume overload with mild ascites, mesenteric edema, and body wall edema.
+3.  Cirrhosis and portal hypertension. Similar appearance of the segment 4 ablation site, incompletely characterized on this examination.
+By my electronic signature, I attest that I have personally reviewed the images for this examination and formulated the interpretations and opinions expressed in this report
+Finalized by [ONMD_NAME], D.O. on [ONMD_DATE 2024] 1:49 PM.

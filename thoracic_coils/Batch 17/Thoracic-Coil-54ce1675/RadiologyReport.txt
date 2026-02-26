@@ -1,0 +1,31 @@
+Thoracic-Coil-54ce1675
+
+Date: 01/22/2025
+
+CT CHEST
+
+CLINICAL INDICATION:
+HCC screening. Cirrhosis. Esophageal varices.
+
+TECHNIQUE:
+Multiple contiguous axial CT images were obtained through the chest without IV contrast. Post processing coronal and sagittal reconstruction images were made from the axial images.
+IV contrast: None.
+
+COMPARISON:
+CT chest [ONMD_DATE 2024].
+
+FINDINGS:
+Evaluation of the mediastinum and hila, including the vasculature and for lymphadenopathy, is limited without the use of IV contrast.
+Lower Neck: Similar thyroid nodularity..
+Axilla, Mediastinum and Hila: No thoracic lymphadenopathy. Lower paraesophageal varices with associated embolization coils, which limits evaluation of adjacent structures secondary to streak artifact..
+Heart and Great Vessels: Normal size heart. Trace pericardial fluid without pericardial effusion. Mild coronary artery calcifications. Similar dilated pulmonary trunk, measuring 3.5 cm. Aortic calcifications indicating atherosclerosis.
+Airway, Lungs and Pleura: Mild emphysema with scattered areas of mild bronchial wall thickening.. Scattered areas of scarring and atelectasis. Few stable scattered pulmonary nodules, for example in the medial left lower lobe measuring 2 mm ([ONMD_DATE 1972]). Few ill-defined groundglass opacities also appear similar to the prior study (for example within the right upper lobe on image 47 series 4). No pleural effusion.
+Upper Abdomen: Please see separately dictated same-day abdominal MRI.
+Chest Wall and Osseous Structures: Symmetric moderate to severe gynecomastia. Thoracic spondylosis. No destructive osseous lesion.
+
+IMPRESSION:
+1.  Stable scattered small nodular and ill-defined pulmonary opacities, which are nonspecific though likely unrelated to reported hepatocellular carcinoma. Follow-up CT chest in 6-12 months is recommended for reevaluation.
+2.  No thoracic adenopathy.
+3.  Please see separately dictated same-day abdominal MRI for discussion of abdominal findings.
+By my electronic signature, I attest that I have personally reviewed the images for this examination and formulated the interpretations and opinions expressed in this report
+Finalized by [ONMD_NAME], M.D. on [ONMD_DATE 2025] 12:21 PM.

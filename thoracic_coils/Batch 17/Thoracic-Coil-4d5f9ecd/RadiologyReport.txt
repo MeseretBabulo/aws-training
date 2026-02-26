@@ -1,0 +1,60 @@
+Thoracic-Coil-4d5f9ecd
+
+Date: 03/23/2022
+
+CT OF THE CHEST WITH CONTRAST (OMNIPAQUE 300 75 ML/500 ML)
+
+INDICATION:
+Order states:  Malignant neoplasm of the right upper lobe bronchus/lung diagnosed in [ONMD_DATE_2021].   Patient states:  Follow-up of lung cancer.  Smoking
+
+HISTORY:
+Past history of smoking.
+
+COMPARISON/CORRELATION:
+This exam was compared to a prior PET/CT study dated [ONMD_DATE].
+
+TECHNIQUE:
+Following administration of bolus of IV contrast, helical scanning of the thorax was obtained without complication. A dose lowering technique such as automated exposure control, iterative reconstruction, or MA and/or KV adjustment for patient size was utilized for this exam..  The data set was reconstructed at 1 mm thick sections in the axial projection and 1 mm or 2 mm thick sections in the sagittal and coronal projections for review.  8 x 4 mm axial lung window MIPS reconstructions were also performed for better detection of pulmonary nodules.
+
+FINDINGS:
+LOWER NECK/THYROID:  The thyroid gland, as visualized, grossly appears normal in size without discrete masses, nodules or cysts.  There is no supraclavicular or axillary lymphadenopathy.
+
+LUNGS: There is mild volume loss the right hemithorax.  There is post radiation changes.  There is been interval development of a soft tissue mass in the mid right lung measuring 4.9 x 3 x 1.5 cm suspicious for recurrent lung cancer.  There is significant patchy lung opacity adjacent to the mass with interstitial fibrosis and traction bronchiectasis consistent with post radiation fibrosis.  There is pleural thickening and a small right pleural effusion also evident probably related to post radiation changes.  There is moderately severe centrilobular and mild paraseptal emphysema, primarily involving the upper lung zones.  There is linear scarring in the medial left lower lobe.
+
+CENTRAL AIRWAY:  The tracheobronchial tree is well-visualized.  There is mucous in the anterior and lateral mid and lower trachea.  There is traction bronchiectasis related to the right midlung zone radiation fibrosis.  There are multiple metallic clips in the infrahilar region on the right and within the right peribronchial mediastinum.
+
+PLEURA: There is pleural thickening with a minimal inferior posterior pleural effusion that appears loculated.  There are clips and coils in the medial left lower lobe.  There is elevation of the right hemidiaphragm.
+
+THORACIC AORTA AND GREAT VESSELS: The ascending aorta is normal in diameter measuring 3.4 cm.  There is mild atheromatous changes of the aorta or great vessels.
+
+PULMONARY ARTERIES:  The pulmonary conus and central pulmonary arteries are normal in diameter.  There are no large filling defects to suggest significant pulmonary embolism.  There appears to be clips or possibly a choledochal within the medial left lower lobe pulmonary artery possibly from treatment of the AV fistula.  These may represent seeds from focal radiation cancer treatment.
+
+HEART AND PERICARDIUM: Mild coronary arterial calcification. Unremarkable cardiac morphology and pericardium.
+
+LYMPH NODES:  There is developing right suprahilar lymphadenopathy measuring 25 x 19 mm in greatest transverse and AP dimension.  There is also a borderline enlarged anterior infrahilar lymph node measuring 9.6 x 14 mm.  There is no abnormal mediastinal or left hilar lymphadenopathy..
+
+MEDIASTINUM:  There are no mediastinal masses, cysts or other abnormalities.  The esophagus appears normal.  There is no hiatal hernia.
+
+THORACIC SPINE AND CHEST WALL: There is persistent mild anterior wedge compression changes of several mid and lower thoracic vertebral bodies.  There is anterior bridging osteophyte formation.  The trabecular bone density of L1 is decreased measuring less than 110 Hounsfield units consistent with moderate osteopenia.  There are no lytic or blastic bony changes.
+
+LINES/TUBES/DEVICES/HARDWARE:  None.
+
+VISUALIZED UPPER ABDOMEN:   The bilateral adrenal glands appear normal.  Portions of the liver, spleen, biliary tree, pancreas and superior kidneys were included on the exam and appear normal.  There is moderate atheromatous calcification of the abdominal aorta and branch vessels.
+
+CONCLUSION:
+INTERVAL DEVELOPMENT OF A SOFT TISSUE MASSLIKE OPACITY IN THE MID RIGHT LOWER LOBE WITH ADJACENT PATCHY LUNG OPACITIES WITH PULMONARY FIBROSIS AND TRACTION BRONCHIECTASIS CONSISTENT WITH POST RADIATION CHANGES.
+
+INTERVAL DEVELOPMENT OF RIGHT HILAR LYMPHADENOPATHY SUSPICIOUS FOR METASTATIC DISEASE.
+
+MODERATELY SEVERE CENTRILOBULAR AND PARASEPTAL EMPHYSEMA.
+
+PLEURAL THICKENING WITH LOCULATED PLEURAL EFFUSION ON THE RIGHT WITH MULTIPLE PROBABLE RADIATION PELLETS IN THE MEDIAL RIGHT LOWER LOBE AND MEDIASTINUM AS DETAILED ABOVE.
+
+MODERATE OSTEOPENIA.
+
+FOLLOW-UP
+
+RECOMMENDATION:
+THE PET/CT STUDY TO ASSESS METABOLIC ACTIVITY FOR CONFIRMATION SHOULD BE CONSIDERED.
+
+[ONMD_NAME], FAOCR (DIRECT PH [ONMD_PHONE]) DPV3
