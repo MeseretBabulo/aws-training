@@ -1,0 +1,19 @@
+[Unit]
+Description=Asset Manager (livestock & property)
+After=network.target
+
+[Service]
+Type=simple
+User=assetapp
+WorkingDirectory=/opt/asset_manager
+Environment=NODE_ENV=production
+Environment=PORT=3001
+Environment=DATA_DIR=/opt/asset_manager/data
+# Change this PIN! Your dad types it once on his phone.
+Environment=APP_PIN=CHANGE_ME
+ExecStart=/usr/bin/node --disable-warning=ExperimentalWarning server/index.js
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

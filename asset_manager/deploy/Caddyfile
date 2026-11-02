@@ -1,0 +1,9 @@
+# Replace with your domain (e.g. assets.example.com or myfarm.duckdns.org).
+# Caddy gets a free HTTPS certificate automatically (HTTPS is required for "Install app").
+your-domain.example.com {
+    encode gzip
+    request_body {
+        max_size 15MB
+    }
+    reverse_proxy 127.0.0.1:3001
+}
