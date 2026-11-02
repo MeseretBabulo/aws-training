@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { ANIMAL_TYPES, ASSET_ICON, ASSET_TYPES, CATEGORIES, CATEGORY_ICON, STATUSES } from '../i18n.js';
-import { compressImage, formatDate, today } from '../utils.js';
+import { ASSET_ICON, ASSET_TYPES, CATEGORIES, CATEGORY_ICON, STATUSES, typeName } from '../i18n.js';
+import { addMonths, compressImage, forecastValue, formatDate, money, today } from '../utils.js';
 
 // ---------- Shared pieces ----------
 function Sheet({ title, onClose, children }) {
@@ -107,34 +107,57 @@ const useForm = (initial) => {
 };
 
 // ---------- Livestock record ----------
-export function RecordForm({ t, lang, item, locations, receivers, onSave, onDelete, onClose }) {
+function OwnerPicker({ t, owners, value, onChange }) {
+  return (
+    <div className="field">
+      <span>{t('owner')}</span>
+      <div className="owner-pick">
+        {owners.map((o) => (
+          <button type="button" key={o.id} className={value === o.id ? 'on' : ''} onClick={() => onChange(o.id)}>
+            👤 {o.name}
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// ---------- Livestock record ----------
+export function RecordForm({ t, lang, item, owners, types, defaultOwner, locations, receivers, onSave, onDelete, onClose }) {
+  const typesOf = (c) => types.filter((x) => x.category === c);
   const [data, set, setData] = useForm(
     item ?? {
       date: today(),
+      owner_id: defaultOwner,
       receiver: '',
       phone: '',
       location: '',
       category: 'cattle',
-      animal_type: 'cow',
+      animal_type: typesOf('cattle').find((x) => x.key === 'cow')?.key || typesOf('cattle')[0]?.key || '',
       quantity: 1,
       buy_price: '',
-      forecast_price: '',
       status: 'held',
       photo: null,
       notes: '',
     },
   );
   const [showErrors, setShowErrors] = useState(false);
-  const types = ANIMAL_TYPES[data.category] || {};
+  const options = typesOf(data.category);
+  const selectedType = types.find((x) => x.key === data.animal_type);
 
-  const chooseCategory = (c) =>
-    setData((d) => ({ ...d, category: c, animal_type: Object.keys(ANIMAL_TYPES[c])[0] }));
-
+  const chooseCategory = (c) => setData((d) => ({ ...d, category: c, animal_type: typesOf(c)[0]?.key || '' }));
   const stepQty = (delta) => setData((d) => ({ ...d, quantity: Math.max(1, (Number(d.quantity) || 1) + delta) }));
+
+  // Live forecast preview
+  const preview = { ...data, buy_price: Number(data.buy_price) || 0 };
+  const now = new Date();
+  const valueNow = data.date ? forecastValue(preview, types, now) : 0;
+  const valueIn12 = data.date ? forecastValue(preview, types, addMonths(now, 12)) : 0;
+  const qty = Number(data.quantity) || 1;
 
   function submit(e) {
     e.preventDefault();
-    if (!data.date || !data.receiver.trim() || !data.location.trim()) {
+    if (!data.date || !data.receiver.trim() || !data.location.trim() || !data.animal_type || !data.owner_id) {
       setShowErrors(true);
       return;
     }
@@ -144,6 +167,8 @@ export function RecordForm({ t, lang, item, locations, receivers, onSave, onDele
   return (
     <Sheet title={item ? t('editRecord') : t('newRecord')} onClose={onClose}>
       <form onSubmit={submit} noValidate className={showErrors ? 'show-errors' : ''}>
+        <OwnerPicker t={t} owners={owners} value={data.owner_id} onChange={set('owner_id')} />
+
         <div className="field">
           <span>{t('category')}</span>
           <div className="segmented">
@@ -159,9 +184,9 @@ export function RecordForm({ t, lang, item, locations, receivers, onSave, onDele
         <div className="grid-2">
           <Field label={t('animalType')}>
             <select value={data.animal_type} onChange={set('animal_type')}>
-              {Object.entries(types).map(([key, [en, am]]) => (
-                <option key={key} value={key}>
-                  {lang === 'en' ? en : `${am} (${en})`}
+              {options.map((x) => (
+                <option key={x.key} value={x.key}>
+                  {lang === 'en' || !x.name_en ? typeName(x, lang) : `${x.name_am} (${x.name_en})`}
                 </option>
               ))}
             </select>
@@ -182,6 +207,30 @@ export function RecordForm({ t, lang, item, locations, receivers, onSave, onDele
         <Field label={t('date')} required>
           <input type="date" value={data.date} onChange={set('date')} required />
           {lang === 'am' && data.date && <span className="hint">{formatDate(data.date, 'am')}</span>}
+        </Field>
+
+        <Field label={`${t('buyPriceOnly')} (${t('birr')})`}>
+          <input type="number" inputMode="decimal" min="0" value={data.buy_price} onChange={set('buy_price')} />
+          {preview.buy_price > 0 && (
+            <div className="forecast-box">
+              {qty > 1 && (
+                <div>
+                  {t('perHead')}: {money(preview.buy_price / qty)} {t('birr')}
+                </div>
+              )}
+              <div>
+                📈 {t('growthInfo').replace('{r}', selectedType?.monthly_growth ?? 0)}
+              </div>
+              <div className="forecast-row">
+                <span>
+                  {t('estNow')}: <b>{money(valueNow)}</b>
+                </span>
+                <span>
+                  {t('estIn12')}: <b>{money(valueIn12)}</b> {t('birr')}
+                </span>
+              </div>
+            </div>
+          )}
         </Field>
 
         <Field label={t('receiver')} required>
@@ -205,15 +254,6 @@ export function RecordForm({ t, lang, item, locations, receivers, onSave, onDele
             ))}
           </datalist>
         </Field>
-
-        <div className="grid-2">
-          <Field label={`${t('buyPrice')} (${t('birr')})`}>
-            <input type="number" inputMode="decimal" min="0" value={data.buy_price} onChange={set('buy_price')} />
-          </Field>
-          <Field label={`${t('forecastPrice')} (${t('birr')})`}>
-            <input type="number" inputMode="decimal" min="0" value={data.forecast_price} onChange={set('forecast_price')} />
-          </Field>
-        </div>
 
         <Field label={t('status')}>
           <select value={data.status} onChange={set('status')}>
@@ -239,15 +279,15 @@ export function RecordForm({ t, lang, item, locations, receivers, onSave, onDele
 }
 
 // ---------- Property / other asset ----------
-export function AssetForm({ t, item, locations, onSave, onDelete, onClose }) {
+export function AssetForm({ t, item, owners, defaultOwner, locations, onSave, onDelete, onClose }) {
   const [data, set] = useForm(
-    item ?? { name: '', asset_type: 'land', location: '', date: today(), value: '', forecast_value: '', photo: null, notes: '' },
+    item ?? { name: '', asset_type: 'land', owner_id: defaultOwner, location: '', date: today(), value: '', photo: null, notes: '' },
   );
   const [showErrors, setShowErrors] = useState(false);
 
   function submit(e) {
     e.preventDefault();
-    if (!data.name.trim() || !data.location.trim()) {
+    if (!data.name.trim() || !data.location.trim() || !data.owner_id) {
       setShowErrors(true);
       return;
     }
@@ -257,6 +297,8 @@ export function AssetForm({ t, item, locations, onSave, onDelete, onClose }) {
   return (
     <Sheet title={item ? t('editAsset') : t('newAsset')} onClose={onClose}>
       <form onSubmit={submit} noValidate className={showErrors ? 'show-errors' : ''}>
+        <OwnerPicker t={t} owners={owners} value={data.owner_id} onChange={set('owner_id')} />
+
         <div className="field">
           <span>{t('assetType')}</span>
           <div className="segmented segmented-3">
@@ -282,16 +324,12 @@ export function AssetForm({ t, item, locations, onSave, onDelete, onClose }) {
           </datalist>
         </Field>
 
-        <Field label={t('date')}>
-          <input type="date" value={data.date || ''} onChange={set('date')} />
-        </Field>
-
         <div className="grid-2">
+          <Field label={t('date')}>
+            <input type="date" value={data.date || ''} onChange={set('date')} />
+          </Field>
           <Field label={`${t('value')} (${t('birr')})`}>
             <input type="number" inputMode="decimal" min="0" value={data.value} onChange={set('value')} />
-          </Field>
-          <Field label={`${t('forecastValue')} (${t('birr')})`}>
-            <input type="number" inputMode="decimal" min="0" value={data.forecast_value} onChange={set('forecast_value')} />
           </Field>
         </div>
 

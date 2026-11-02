@@ -23,6 +23,20 @@ fs.mkdirSync(UPLOAD_DIR, { recursive: true });
 const db = new DatabaseSync(path.join(DATA_DIR, 'asset_manager.db'));
 db.exec(`
   PRAGMA journal_mode = WAL;
+  CREATE TABLE IF NOT EXISTS owners (
+    id         INTEGER PRIMARY KEY AUTOINCREMENT,
+    name       TEXT    NOT NULL,
+    sort_order INTEGER NOT NULL DEFAULT 0
+  );
+  CREATE TABLE IF NOT EXISTS animal_types (
+    id             INTEGER PRIMARY KEY AUTOINCREMENT,
+    key            TEXT    NOT NULL UNIQUE,
+    category       TEXT    NOT NULL,
+    name_am        TEXT    NOT NULL,
+    name_en        TEXT    NOT NULL DEFAULT '',
+    monthly_growth REAL    NOT NULL DEFAULT 0,
+    sort_order     INTEGER NOT NULL DEFAULT 0
+  );
   CREATE TABLE IF NOT EXISTS records (
     id             INTEGER PRIMARY KEY AUTOINCREMENT,
     date           TEXT    NOT NULL,
@@ -33,10 +47,11 @@ db.exec(`
     animal_type    TEXT,
     quantity       INTEGER NOT NULL DEFAULT 1,
     buy_price      REAL    NOT NULL DEFAULT 0,
-    forecast_price REAL    NOT NULL DEFAULT 0,
+    forecast_price REAL    NOT NULL DEFAULT 0, -- legacy, no longer used (forecast is calculated)
     status         TEXT    NOT NULL DEFAULT 'held',
     photo          TEXT,
     notes          TEXT,
+    owner_id       INTEGER,
     created_at     TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP,
     updated_at     TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
@@ -47,13 +62,61 @@ db.exec(`
     location       TEXT    NOT NULL,
     date           TEXT,
     value          REAL    NOT NULL DEFAULT 0,
-    forecast_value REAL    NOT NULL DEFAULT 0,
+    forecast_value REAL    NOT NULL DEFAULT 0, -- legacy, no longer used
     photo          TEXT,
     notes          TEXT,
+    owner_id       INTEGER,
     created_at     TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP,
     updated_at     TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
 `);
+
+// Migrate databases created by v1 (no owners)
+for (const table of ['records', 'assets']) {
+  const cols = db.prepare(`PRAGMA table_info(${table})`).all().map((c) => c.name);
+  if (!cols.includes('owner_id')) db.exec(`ALTER TABLE ${table} ADD COLUMN owner_id INTEGER`);
+}
+
+// Default owners (renamable in Settings)
+if (!db.prepare('SELECT COUNT(*) AS n FROM owners').get().n) {
+  const ins = db.prepare('INSERT INTO owners (name, sort_order) VALUES (?, ?)');
+  ['የራሴ', 'መሰረት', 'ትንሹ ልጄ'].forEach((n, i) => ins.run(n, i));
+}
+
+// Default animal types with monthly value growth % (editable in Settings)
+if (!db.prepare('SELECT COUNT(*) AS n FROM animal_types').get().n) {
+  const defaults = [
+    ['cattle', 'calf', 'ጥጃ', 'Calf', 3],
+    ['cattle', 'weaner', 'ጡት የተወ ጥጃ', 'Weaner', 3],
+    ['cattle', 'yearling', 'የዓመት ጥጃ', 'Yearling', 2.5],
+    ['cattle', 'heifer', 'ጊደር', 'Heifer', 2],
+    ['cattle', 'cow', 'ላም', 'Cow', 1],
+    ['cattle', 'bull', 'ኮርማ', 'Bull', 1.5],
+    ['cattle', 'steer', 'ወይፈን', 'Steer', 2.5],
+    ['cattle', 'bullock', 'በሬ', 'Bullock / Ox', 1.5],
+    ['sheep', 'lamb', 'ጠቦት', 'Lamb', 4],
+    ['sheep', 'ewe', 'እንስት በግ', 'Ewe', 1],
+    ['sheep', 'ram', 'አውራ በግ', 'Ram', 2],
+    ['sheep', 'wether', 'ሙክት በግ', 'Wether (castrated)', 3],
+    ['goat', 'kid', 'የፍየል ግልገል', 'Kid', 4],
+    ['goat', 'doe', 'እንስት ፍየል', 'Doe', 1],
+    ['goat', 'buck', 'አውራ ፍየል', 'Buck', 2],
+    ['goat', 'goat_wether', 'ሙክት ፍየል', 'Wether (castrated)', 3],
+    ['other', 'donkey', 'አህያ', 'Donkey', 0.5],
+    ['other', 'horse', 'ፈረስ', 'Horse', 0.5],
+    ['other', 'mule', 'በቅሎ', 'Mule', 0.5],
+    ['other', 'camel', 'ግመል', 'Camel', 0.5],
+    ['other', 'chicken', 'ዶሮ', 'Chicken', 0],
+  ];
+  const ins = db.prepare(
+    'INSERT INTO animal_types (category, key, name_am, name_en, monthly_growth, sort_order) VALUES (?, ?, ?, ?, ?, ?)',
+  );
+  defaults.forEach((d, i) => ins.run(...d, i));
+}
+
+// Old rows without owner -> first owner
+db.exec(`UPDATE records SET owner_id = (SELECT MIN(id) FROM owners) WHERE owner_id IS NULL;
+         UPDATE assets  SET owner_id = (SELECT MIN(id) FROM owners) WHERE owner_id IS NULL;`);
 
 // ---------- Validation ----------
 const CATEGORIES = ['cattle', 'sheep', 'goat', 'other'];
@@ -66,6 +129,9 @@ const num = (v) => {
   return Number.isFinite(n) && n >= 0 ? n : 0;
 };
 const isDate = (v) => /^\d{4}-\d{2}-\d{2}$/.test(v);
+const ownerExists = (id) => !!db.prepare('SELECT 1 FROM owners WHERE id = ?').get(id);
+const typeExists = (key, category) =>
+  !!db.prepare('SELECT 1 FROM animal_types WHERE key = ? AND category = ?').get(key, category);
 
 function cleanRecord(b) {
   const r = {
@@ -77,16 +143,18 @@ function cleanRecord(b) {
     animal_type: str(b.animal_type, 40),
     quantity: Math.max(1, Math.floor(num(b.quantity)) || 1),
     buy_price: num(b.buy_price),
-    forecast_price: num(b.forecast_price),
     status: str(b.status, 20) || 'held',
     notes: str(b.notes, 2000),
+    owner_id: Number(b.owner_id) || null,
   };
   const errors = [];
   if (!isDate(r.date)) errors.push('date');
   if (!r.receiver) errors.push('receiver');
   if (!r.location) errors.push('location');
   if (!CATEGORIES.includes(r.category)) errors.push('category');
+  if (!typeExists(r.animal_type, r.category)) errors.push('animal_type');
   if (!STATUSES.includes(r.status)) errors.push('status');
+  if (!ownerExists(r.owner_id)) errors.push('owner_id');
   return { data: r, errors };
 }
 
@@ -97,14 +165,35 @@ function cleanAsset(b) {
     location: str(b.location),
     date: isDate(str(b.date, 10)) ? str(b.date, 10) : null,
     value: num(b.value),
-    forecast_value: num(b.forecast_value),
     notes: str(b.notes, 2000),
+    owner_id: Number(b.owner_id) || null,
   };
   const errors = [];
   if (!a.name) errors.push('name');
   if (!a.location) errors.push('location');
   if (!ASSET_TYPES.includes(a.asset_type)) errors.push('asset_type');
+  if (!ownerExists(a.owner_id)) errors.push('owner_id');
   return { data: a, errors };
+}
+
+function cleanOwner(b) {
+  const o = { name: str(b.name, 80), sort_order: Math.floor(num(b.sort_order)) };
+  return { data: o, errors: o.name ? [] : ['name'] };
+}
+
+function cleanAnimalType(b) {
+  const t = {
+    category: str(b.category, 20),
+    name_am: str(b.name_am, 60),
+    name_en: str(b.name_en, 60),
+    monthly_growth: Math.min(100, num(b.monthly_growth)),
+    sort_order: Math.floor(num(b.sort_order)),
+  };
+  const errors = [];
+  if (!CATEGORIES.includes(t.category)) errors.push('category');
+  if (!t.name_am && !t.name_en) errors.push('name_am');
+  if (!t.name_am) t.name_am = t.name_en;
+  return { data: t, errors };
 }
 
 // ---------- Photos ----------
@@ -126,8 +215,7 @@ function savePhoto(input, oldPhoto) {
 
 function removePhoto(p) {
   if (!p || !p.startsWith('/uploads/')) return;
-  const file = path.join(UPLOAD_DIR, path.basename(p));
-  fs.rm(file, { force: true }, () => {});
+  fs.rm(path.join(UPLOAD_DIR, path.basename(p)), { force: true }, () => {});
 }
 
 // ---------- App ----------
@@ -151,14 +239,18 @@ app.use('/api', (req, res, next) => {
   res.status(401).json({ error: 'unauthorized' });
 });
 
-// Generic CRUD for a table
-function crud(table, clean, orderBy) {
+/**
+ * Generic CRUD router.
+ * opts.photos      table has a photo column
+ * opts.immutable   columns kept from the existing row on update
+ * opts.onInsert    (data) => extra columns for INSERT
+ * opts.inUse       (row) => true if the row may not be deleted
+ */
+function crud(table, clean, orderBy, opts = {}) {
   const router = express.Router();
   const getOne = db.prepare(`SELECT * FROM ${table} WHERE id = ?`);
 
-  router.get('/', (req, res) => {
-    res.json(db.prepare(`SELECT * FROM ${table} ORDER BY ${orderBy}`).all());
-  });
+  router.get('/', (req, res) => res.json(db.prepare(`SELECT * FROM ${table} ORDER BY ${orderBy}`).all()));
 
   router.get('/:id', (req, res) => {
     const row = getOne.get(req.params.id);
@@ -168,7 +260,8 @@ function crud(table, clean, orderBy) {
   router.post('/', (req, res) => {
     const { data, errors } = clean(req.body || {});
     if (errors.length) return res.status(400).json({ error: 'invalid', fields: errors });
-    data.photo = savePhoto(req.body.photo, null);
+    if (opts.photos) data.photo = savePhoto(req.body.photo, null);
+    Object.assign(data, opts.onInsert?.(data));
     const cols = Object.keys(data);
     const info = db
       .prepare(`INSERT INTO ${table} (${cols.join(',')}) VALUES (${cols.map(() => '?').join(',')})`)
@@ -179,29 +272,49 @@ function crud(table, clean, orderBy) {
   router.put('/:id', (req, res) => {
     const existing = getOne.get(req.params.id);
     if (!existing) return res.status(404).json({ error: 'not_found' });
-    const { data, errors } = clean(req.body || {});
+    const body = { ...req.body };
+    for (const c of opts.immutable || []) body[c] = existing[c];
+    const { data, errors } = clean(body);
     if (errors.length) return res.status(400).json({ error: 'invalid', fields: errors });
-    data.photo = savePhoto(req.body.photo, existing.photo);
+    if (opts.photos) data.photo = savePhoto(req.body.photo, existing.photo);
     const cols = Object.keys(data);
-    db.prepare(
-      `UPDATE ${table} SET ${cols.map((c) => `${c} = ?`).join(', ')}, updated_at = CURRENT_TIMESTAMP WHERE id = ?`,
-    ).run(...cols.map((c) => data[c]), existing.id);
+    const touch = opts.photos ? ', updated_at = CURRENT_TIMESTAMP' : '';
+    db.prepare(`UPDATE ${table} SET ${cols.map((c) => `${c} = ?`).join(', ')}${touch} WHERE id = ?`).run(
+      ...cols.map((c) => data[c]),
+      existing.id,
+    );
     res.json(getOne.get(existing.id));
   });
 
   router.delete('/:id', (req, res) => {
     const existing = getOne.get(req.params.id);
     if (!existing) return res.status(404).json({ error: 'not_found' });
+    if (opts.inUse?.(existing)) return res.status(409).json({ error: 'in_use' });
     db.prepare(`DELETE FROM ${table} WHERE id = ?`).run(existing.id);
-    removePhoto(existing.photo);
+    if (opts.photos) removePhoto(existing.photo);
     res.json({ ok: true });
   });
 
   return router;
 }
 
-app.use('/api/records', crud('records', cleanRecord, 'date DESC, id DESC'));
-app.use('/api/assets', crud('assets', cleanAsset, 'id DESC'));
+app.use('/api/records', crud('records', cleanRecord, 'date DESC, id DESC', { photos: true }));
+app.use('/api/assets', crud('assets', cleanAsset, 'id DESC', { photos: true }));
+app.use(
+  '/api/owners',
+  crud('owners', cleanOwner, 'sort_order, id', {
+    inUse: (o) =>
+      !!db.prepare('SELECT 1 FROM records WHERE owner_id = ? UNION SELECT 1 FROM assets WHERE owner_id = ?').get(o.id, o.id),
+  }),
+);
+app.use(
+  '/api/animal-types',
+  crud('animal_types', cleanAnimalType, 'category, sort_order, id', {
+    immutable: ['category'],
+    onInsert: () => ({ key: `t_${crypto.randomBytes(5).toString('hex')}` }),
+    inUse: (t) => !!db.prepare('SELECT 1 FROM records WHERE animal_type = ?').get(t.key),
+  }),
+);
 
 // Photos (random, unguessable file names)
 app.use('/uploads', express.static(UPLOAD_DIR, { maxAge: '30d', immutable: true }));

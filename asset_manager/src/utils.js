@@ -4,11 +4,13 @@ export function money(n) {
 }
 
 // ---------- Dates ----------
-export const today = () => {
-  const d = new Date();
+// Local date -> 'YYYY-MM-DD'
+export const isoDate = (date) => {
+  const d = new Date(date);
   d.setMinutes(d.getMinutes() - d.getTimezoneOffset());
   return d.toISOString().slice(0, 10);
 };
+export const today = () => isoDate(new Date());
 
 const ET_MONTHS = ['መስከረም', 'ጥቅምት', 'ኅዳር', 'ታኅሣሥ', 'ጥር', 'የካቲት', 'መጋቢት', 'ሚያዝያ', 'ግንቦት', 'ሰኔ', 'ሐምሌ', 'ነሐሴ', 'ጳጉሜን'];
 
@@ -38,6 +40,26 @@ export function formatDate(iso, lang) {
   }
   const [y, m, d] = iso.split('-').map(Number);
   return new Date(y, m - 1, d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+// ---------- Forecast ----------
+// value = buy price × (1 + monthly growth % × months held). Simple and easy to explain.
+const MS_PER_MONTH = 30.4375 * 24 * 3600 * 1000;
+
+export function monthsBetween(fromIso, toDate) {
+  const [y, m, d] = fromIso.split('-').map(Number);
+  return Math.max(0, (toDate - new Date(y, m - 1, d)) / MS_PER_MONTH);
+}
+
+export function addMonths(date, months) {
+  const d = new Date(date);
+  d.setMonth(d.getMonth() + months);
+  return d;
+}
+
+export function forecastValue(record, types, atDate = new Date()) {
+  const rate = types.find((x) => x.key === record.animal_type)?.monthly_growth || 0;
+  return record.buy_price * (1 + (rate / 100) * monthsBetween(record.date, atDate));
 }
 
 // ---------- Photos: shrink before upload (phone photos are 3–8 MB) ----------

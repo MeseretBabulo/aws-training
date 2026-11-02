@@ -17,7 +17,7 @@ export const TEXT = {
     goat: 'Goats',
     other: 'Other animals',
     head: 'head',
-    totalCost: 'Total initial cost',
+    totalCost: 'Total buy cost',
     forecast: 'Forecast value',
     profit: 'Expected gain',
     livestock: 'Livestock',
@@ -55,8 +55,7 @@ export const TEXT = {
     name: 'Name / description',
     assetType: 'Type',
     value: 'Value / cost',
-    forecastValue: 'Forecast value',
-    at_land: 'Land',
+        at_land: 'Land',
     at_house: 'House',
     at_vehicle: 'Vehicle',
     at_equipment: 'Equipment / tools',
@@ -79,6 +78,33 @@ export const TEXT = {
     error: 'Something went wrong. Try again.',
     birr: 'Birr',
     iosInstall: 'iPhone: tap Share ⎋ then “Add to Home Screen”.',
+    // v2: owners, settings, forecast
+    settings: 'Settings',
+    owner: 'Owner',
+    owners: 'Owners',
+    allOwners: 'Everyone',
+    ownersHelp: 'Whose animals / property? e.g. mine, my son…',
+    addOwner: 'Add owner',
+    animalTypes: 'Animal types (dropdown list)',
+    typesHelp: 'Monthly growth % = how much the value grows each month. Used for the forecast.',
+    nameAm: 'Amharic name',
+    nameEn: 'English name',
+    monthlyGrowth: 'Growth / month %',
+    addType: 'Add type',
+    inUse: 'Cannot delete — it is used by existing records.',
+    horizon: 'Forecast for',
+    h_0: 'Today',
+    h_3: '3 months',
+    h_6: '6 months',
+    h_12: '1 year',
+    estNow: 'Value today',
+    estIn12: 'In 1 year',
+    growthInfo: 'grows {r}% per month',
+    perOwner: 'By owner',
+    propertyCount: 'Items',
+    totalValue: 'Total value',
+    buyPriceOnly: 'Buy price (total for all)',
+    perHead: 'per head',
   },
   am: {
     appName: 'የንብረት መዝገብ',
@@ -130,8 +156,7 @@ export const TEXT = {
     name: 'ስም / መግለጫ',
     assetType: 'ዓይነት',
     value: 'ዋጋ / ወጪ',
-    forecastValue: 'የሚገመት ዋጋ',
-    at_land: 'መሬት',
+        at_land: 'መሬት',
     at_house: 'ቤት',
     at_vehicle: 'ተሽከርካሪ',
     at_equipment: 'መሳሪያ',
@@ -153,39 +178,32 @@ export const TEXT = {
     error: 'ችግር ተፈጥሯል። እንደገና ይሞክሩ።',
     birr: 'ብር',
     iosInstall: 'iPhone: Share ⎋ ይጫኑ ከዚያ “Add to Home Screen” ይምረጡ።',
-  },
-};
-
-// Animal types per category: key -> [English, Amharic]
-export const ANIMAL_TYPES = {
-  cattle: {
-    calf: ['Calf', 'ጥጃ'],
-    weaner: ['Weaner', 'ጡት የተወ ጥጃ'],
-    yearling: ['Yearling', 'የዓመት ጥጃ'],
-    heifer: ['Heifer', 'ጊደር'],
-    cow: ['Cow', 'ላም'],
-    bull: ['Bull', 'ኮርማ'],
-    steer: ['Steer', 'ወይፈን'],
-    bullock: ['Bullock / Ox', 'በሬ'],
-  },
-  sheep: {
-    lamb: ['Lamb', 'ጠቦት'],
-    ewe: ['Ewe', 'እንስት በግ'],
-    ram: ['Ram', 'አውራ በግ'],
-    wether: ['Wether (castrated)', 'ሙክት በግ'],
-  },
-  goat: {
-    kid: ['Kid', 'የፍየል ግልገል'],
-    doe: ['Doe', 'እንስት ፍየል'],
-    buck: ['Buck', 'አውራ ፍየል'],
-    goat_wether: ['Wether (castrated)', 'ሙክት ፍየል'],
-  },
-  other: {
-    donkey: ['Donkey', 'አህያ'],
-    horse: ['Horse', 'ፈረስ'],
-    mule: ['Mule', 'በቅሎ'],
-    camel: ['Camel', 'ግመል'],
-    chicken: ['Chicken', 'ዶሮ'],
+    settings: 'ቅንብሮች',
+    owner: 'ባለቤት',
+    owners: 'ባለቤቶች',
+    allOwners: 'ሁሉም ባለቤት',
+    ownersHelp: 'የማን እንስሳ / ንብረት? ለምሳሌ የራሴ፣ የልጄ…',
+    addOwner: 'ባለቤት ጨምር',
+    animalTypes: 'የእንስሳት ዓይነቶች (ዝርዝር)',
+    typesHelp: 'ወርሃዊ ዕድገት % = ዋጋው በየወሩ የሚጨምረው መጠን። ለትንበያ ይጠቅማል።',
+    nameAm: 'የአማርኛ ስም',
+    nameEn: 'የእንግሊዝኛ ስም',
+    monthlyGrowth: 'ወርሃዊ ዕድገት %',
+    addType: 'ዓይነት ጨምር',
+    inUse: 'ማጥፋት አይቻልም — በመዝገብ ውስጥ ጥቅም ላይ ውሏል።',
+    horizon: 'ትንበያ ለ',
+    h_0: 'ዛሬ',
+    h_3: '3 ወር',
+    h_6: '6 ወር',
+    h_12: '1 ዓመት',
+    estNow: 'የዛሬ ግምት',
+    estIn12: 'ከ1 ዓመት በኋላ',
+    growthInfo: 'በወር {r}% ያድጋል',
+    perOwner: 'በባለቤት',
+    propertyCount: 'ብዛት',
+    totalValue: 'ጠቅላላ ዋጋ',
+    buyPriceOnly: 'የተገዛበት ዋጋ (የሁሉም ድምር)',
+    perHead: 'በአንድ ራስ',
   },
 };
 
@@ -202,8 +220,17 @@ export function makeT(lang) {
   return (key) => dict[key] ?? TEXT.en[key] ?? key;
 }
 
-export function animalTypeLabel(category, type, lang) {
-  const entry = ANIMAL_TYPES[category]?.[type];
-  if (!entry) return type || '';
-  return lang === 'en' ? entry[0] : entry[1];
+// types = rows from /api/animal-types
+export function typeName(type, lang) {
+  if (!type) return '';
+  return lang === 'en' ? type.name_en || type.name_am : type.name_am || type.name_en;
+}
+
+export function animalTypeLabel(types, key, lang) {
+  const type = types.find((x) => x.key === key);
+  return type ? typeName(type, lang) : key || '';
+}
+
+export function ownerName(owners, id) {
+  return owners.find((o) => o.id === id)?.name || '';
 }

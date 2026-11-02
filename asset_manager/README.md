@@ -4,14 +4,20 @@ Simple mobile-first app to manage livestock (cattle, sheep, goats, other animals
 Amharic (default) + English. Installable on the phone home screen (PWA).
 
 ## Features
-- **Dashboard**: KPIs for cattle / sheep / goats (head count), total initial cost, forecast value + expected gain
-- **Livestock records** (CRUD): date, receiver (who keeps the animals), phone, specific location,
-  animal + type (calf, weaner, yearling, heifer, cow, bull, steer, bullock/ox; lamb, ewe, ram…; kid, doe, buck…),
-  quantity, buy price, forecast value, status (with receiver / back home / sold / died), photo (camera or gallery), notes
-- **Property** (CRUD): land, house, vehicle, equipment, crop, other — name, location, value, photo
+- **Owners**: every animal record and property belongs to an owner (e.g. father, Meseret, youngest son).
+  Filter both pages by owner; livestock page shows a per-owner summary. Owners are editable in Settings.
+- **Livestock page** (own dashboard): head count for cattle / sheep / goats, total buy cost,
+  forecast value (today / 3 / 6 / 12 months) + expected gain
+- **Livestock records** (CRUD): owner, date, receiver (who keeps the animals), phone, specific location,
+  animal + type, quantity, **buy price only**, status (with receiver / back home / sold / died), photo, notes
+- **Forecast** = buy price × (1 + monthly growth % × months held). Growth % is set per animal type.
+- **Property page** (own dashboard, separate from livestock): count, total value, breakdown by type;
+  CRUD for land, house, vehicle, equipment, crop, other
+- **Settings**: edit owners; add / rename / delete animal types per category (Amharic + English name, monthly growth %).
+  Owners / types that are used by records cannot be deleted.
 - Search + filter, export to Excel (CSV), Ethiopian calendar dates in Amharic mode
 - PIN login, photos auto-compressed on the phone, last data still visible without internet
-- Only KPIs for animals that are still owned (with receiver / back home); sold and dead are excluded
+- Existing v1 databases are migrated automatically on start (old rows go to the first owner)
 
 ## Stack
 React 18 + Vite (frontend) · Express + built-in Node SQLite (backend, no native modules) · Node **22.13+**

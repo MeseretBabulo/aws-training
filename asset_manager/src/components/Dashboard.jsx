@@ -1,31 +1,29 @@
 import { useMemo, useState } from 'react';
-import { CATEGORIES, CATEGORY_ICON, OWNED_STATUSES, animalTypeLabel } from '../i18n.js';
-import { downloadCsv, formatDate, money } from '../utils.js';
+import { CATEGORIES, CATEGORY_ICON, OWNED_STATUSES, animalTypeLabel, ownerName } from '../i18n.js';
+import { addMonths, downloadCsv, isoDate, forecastValue, formatDate, money } from '../utils.js';
+import OwnerChips from './OwnerChips.jsx';
 
-export default function Dashboard({ t, lang, records, assets, loading, onOpen }) {
+const HORIZONS = [0, 3, 6, 12];
+
+function summarize(records, types, atDate) {
+  const owned = records.filter((r) => OWNED_STATUSES.includes(r.status));
+  const count = (c) => owned.filter((r) => r.category === c).reduce((s, r) => s + r.quantity, 0);
+  const cost = owned.reduce((s, r) => s + r.buy_price, 0);
+  const forecast = owned.reduce((s, r) => s + forecastValue(r, types, atDate), 0);
+  return { cattle: count('cattle'), sheep: count('sheep'), goat: count('goat'), other: count('other'), cost, forecast };
+}
+
+export default function Dashboard({ t, lang, owners, ownerFilter, setOwnerFilter, records, allRecords, types, loading, onOpen }) {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState('all');
+  const [horizon, setHorizon] = useState(0);
 
-  const kpi = useMemo(() => {
-    const owned = records.filter((r) => OWNED_STATUSES.includes(r.status));
-    const count = (c) => owned.filter((r) => r.category === c).reduce((s, r) => s + r.quantity, 0);
-    const livestockCost = owned.reduce((s, r) => s + r.buy_price, 0);
-    const livestockForecast = owned.reduce((s, r) => s + r.forecast_price, 0);
-    const propertyCost = assets.reduce((s, a) => s + a.value, 0);
-    const propertyForecast = assets.reduce((s, a) => s + a.forecast_value, 0);
-    return {
-      cattle: count('cattle'),
-      sheep: count('sheep'),
-      goat: count('goat'),
-      other: count('other'),
-      livestockCost,
-      propertyCost,
-      cost: livestockCost + propertyCost,
-      livestockForecast,
-      propertyForecast,
-      forecast: livestockForecast + propertyForecast,
-    };
-  }, [records, assets]);
+  const atDate = useMemo(() => addMonths(new Date(), horizon), [horizon]);
+  const kpi = useMemo(() => summarize(records, types, atDate), [records, types, atDate]);
+  const perOwner = useMemo(
+    () => owners.map((o) => ({ owner: o, ...summarize(allRecords.filter((r) => r.owner_id === o.id), types, atDate) })),
+    [owners, allRecords, types, atDate],
+  );
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -36,17 +34,21 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
     );
   }, [records, query, category]);
 
+  const typeLabel = (r) => animalTypeLabel(types, r.animal_type, lang) || t(r.category);
+  const today = new Date();
+
   const exportCsv = () =>
     downloadCsv('livestock-records.csv', [
       { label: t('date'), value: (r) => r.date },
+      { label: t('owner'), value: (r) => ownerName(owners, r.owner_id) },
       { label: t('receiverShort'), value: (r) => r.receiver },
       { label: t('phone'), value: (r) => r.phone },
       { label: t('location'), value: (r) => r.location },
       { label: t('category'), value: (r) => t(r.category) },
-      { label: t('animalType'), value: (r) => animalTypeLabel(r.category, r.animal_type, lang) },
+      { label: t('animalType'), value: typeLabel },
       { label: t('quantity'), value: (r) => r.quantity },
       { label: t('buyPrice'), value: (r) => r.buy_price },
-      { label: t('forecastPrice'), value: (r) => r.forecast_price },
+      { label: t('estNow'), value: (r) => Math.round(forecastValue(r, types, today)) },
       { label: t('status'), value: (r) => t(`st_${r.status}`) },
       { label: t('notes'), value: (r) => r.notes },
     ], filtered);
@@ -55,6 +57,8 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
 
   return (
     <>
+      <OwnerChips t={t} owners={owners} value={ownerFilter} onChange={setOwnerFilter} />
+
       <section className="kpis">
         {['cattle', 'sheep', 'goat'].map((c) => (
           <div key={c} className={`kpi kpi-${c}`}>
@@ -68,12 +72,16 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
           <span className="kpi-value">
             {money(kpi.cost)} <small>{t('birr')}</small>
           </span>
-          <span className="kpi-sub">
-            {t('livestock')} {money(kpi.livestockCost)} · {t('property')} {money(kpi.propertyCost)}
-          </span>
+          {kpi.other > 0 && (
+            <span className="kpi-sub">
+              {CATEGORY_ICON.other} {t('other')}: {kpi.other}
+            </span>
+          )}
         </div>
         <div className="kpi kpi-wide kpi-forecast">
-          <span className="kpi-label">{t('forecast')}</span>
+          <span className="kpi-label">
+            {t('forecast')} · {horizon === 0 ? t('h_0') : formatDate(isoDate(atDate), lang)}
+          </span>
           <span className="kpi-value">
             {money(kpi.forecast)} <small>{t('birr')}</small>
           </span>
@@ -81,13 +89,36 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
             {t('profit')}: {gain >= 0 ? '+' : '−'}
             {money(Math.abs(gain))} {t('birr')}
           </span>
-        </div>
-        {kpi.other > 0 && (
-          <div className="kpi-note">
-            {CATEGORY_ICON.other} {t('other')}: {kpi.other}
+          <div className="horizon" role="group" aria-label={t('horizon')}>
+            {HORIZONS.map((h) => (
+              <button key={h} className={horizon === h ? 'on' : ''} onClick={() => setHorizon(h)}>
+                {t(`h_${h}`)}
+              </button>
+            ))}
           </div>
-        )}
+        </div>
       </section>
+
+      {ownerFilter === 'all' && owners.length > 1 && (
+        <section className="panel">
+          <div className="panel-head">
+            <h2>{t('perOwner')}</h2>
+          </div>
+          <ul className="owner-sum">
+            {perOwner.map((p) => (
+              <li key={p.owner.id} onClick={() => setOwnerFilter(p.owner.id)}>
+                <strong>👤 {p.owner.name}</strong>
+                <span className="owner-counts">
+                  🐄 {p.cattle} · 🐑 {p.sheep} · 🐐 {p.goat}
+                </span>
+                <span className="owner-money">
+                  {money(p.forecast)} {t('birr')}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <section className="panel">
         <div className="panel-head">
@@ -120,12 +151,14 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
                   <span className={`status st-${r.status}`}>{t(`st_${r.status}`)}</span>
                 </div>
                 <div className="muted">
-                  {r.quantity} × {animalTypeLabel(r.category, r.animal_type, lang) || t(r.category)} · 📍 {r.location}
+                  {r.quantity} × {typeLabel(r)} · 📍 {r.location}
                 </div>
                 <div className="card-row muted small">
-                  <span>{formatDate(r.date, lang)}</span>
                   <span>
-                    {money(r.buy_price)} → <b>{money(r.forecast_price)}</b> {t('birr')}
+                    👤 {ownerName(owners, r.owner_id)} · {formatDate(r.date, lang)}
+                  </span>
+                  <span>
+                    {money(r.buy_price)} → <b>{money(forecastValue(r, types, today))}</b> {t('birr')}
                   </span>
                 </div>
               </div>
@@ -139,12 +172,13 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
             <thead>
               <tr>
                 <th>{t('date')}</th>
+                <th>{t('owner')}</th>
                 <th>{t('receiverShort')}</th>
                 <th>{t('location')}</th>
                 <th>{t('animalType')}</th>
                 <th className="num">{t('quantity')}</th>
                 <th className="num">{t('buyPrice')}</th>
-                <th className="num">{t('forecastPrice')}</th>
+                <th className="num">{t('estNow')}</th>
                 <th>{t('status')}</th>
                 <th>{t('photo')}</th>
               </tr>
@@ -153,17 +187,18 @@ export default function Dashboard({ t, lang, records, assets, loading, onOpen })
               {filtered.map((r) => (
                 <tr key={r.id} onClick={() => onOpen(r)}>
                   <td>{formatDate(r.date, lang)}</td>
+                  <td>{ownerName(owners, r.owner_id)}</td>
                   <td>
                     {r.receiver}
                     {r.phone && <div className="muted small">{r.phone}</div>}
                   </td>
                   <td>{r.location}</td>
                   <td>
-                    {CATEGORY_ICON[r.category]} {animalTypeLabel(r.category, r.animal_type, lang) || t(r.category)}
+                    {CATEGORY_ICON[r.category]} {typeLabel(r)}
                   </td>
                   <td className="num">{r.quantity}</td>
                   <td className="num">{money(r.buy_price)}</td>
-                  <td className="num">{money(r.forecast_price)}</td>
+                  <td className="num">{money(forecastValue(r, types, today))}</td>
                   <td>
                     <span className={`status st-${r.status}`}>{t(`st_${r.status}`)}</span>
                   </td>

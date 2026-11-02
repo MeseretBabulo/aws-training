@@ -4,6 +4,7 @@ import { makeT } from './i18n.js';
 import Login from './components/Login.jsx';
 import Dashboard from './components/Dashboard.jsx';
 import Assets from './components/Assets.jsx';
+import Settings from './components/Settings.jsx';
 import { RecordForm, AssetForm } from './components/Forms.jsx';
 
 const LANG_KEY = 'am_lang';
@@ -17,6 +18,9 @@ export default function App() {
   const [tab, setTab] = useState('home');
   const [records, setRecords] = useState([]);
   const [assets, setAssets] = useState([]);
+  const [owners, setOwners] = useState([]);
+  const [types, setTypes] = useState([]);
+  const [ownerFilter, setOwnerFilter] = useState('all');
   const [offline, setOffline] = useState(false);
   const [loading, setLoading] = useState(false);
   const [form, setForm] = useState(null); // { kind: 'record'|'asset', item }
@@ -45,26 +49,28 @@ export default function App() {
     };
   }, []);
 
-  const flash = (msg) => {
+  const flash = useCallback((msg) => {
     setToast(msg);
-    setTimeout(() => setToast(''), 2200);
-  };
+    setTimeout(() => setToast(''), 2400);
+  }, []);
 
   const handleError = useCallback(
     (e) => {
       if (e instanceof api.AuthError) setAuthed(false);
-      else flash(t('error'));
+      else flash(e.message === 'in_use' ? t('inUse') : t('error'));
     },
-    [t],
+    [t, flash],
   );
 
   const load = useCallback(async () => {
     setLoading(true);
     try {
-      const [r, a] = await Promise.all([api.list('records'), api.list('assets')]);
-      setRecords(r.rows);
-      setAssets(a.rows);
-      setOffline(r.offline || a.offline);
+      const res = await Promise.all(['records', 'assets', 'owners', 'animal-types'].map(api.list));
+      setRecords(res[0].rows);
+      setAssets(res[1].rows);
+      setOwners(res[2].rows);
+      setTypes(res[3].rows);
+      setOffline(res.some((r) => r.offline));
     } catch (e) {
       handleError(e);
     } finally {
@@ -76,30 +82,40 @@ export default function App() {
     if (authed) load();
   }, [authed, load]);
 
-  async function save(kind, data) {
-    const resource = kind === 'record' ? 'records' : 'assets';
-    try {
-      if (data.id) await api.update(resource, data.id, data);
-      else await api.create(resource, data);
-      setForm(null);
-      flash(t('saved'));
-      load();
-    } catch (e) {
-      handleError(e);
-    }
-  }
+  // Generic save / delete used by forms and settings. Returns true on success.
+  const save = useCallback(
+    async (resource, data, { close = true, quiet = false } = {}) => {
+      try {
+        if (data.id) await api.update(resource, data.id, data);
+        else await api.create(resource, data);
+        if (close) setForm(null);
+        if (!quiet) flash(t('saved'));
+        await load();
+        return true;
+      } catch (e) {
+        handleError(e);
+        return false;
+      }
+    },
+    [flash, handleError, load, t],
+  );
 
-  async function del(kind, item) {
-    if (!window.confirm(t('confirmDelete'))) return;
-    try {
-      await api.remove(kind === 'record' ? 'records' : 'assets', item.id);
-      setForm(null);
-      flash(t('deleted'));
-      load();
-    } catch (e) {
-      handleError(e);
-    }
-  }
+  const del = useCallback(
+    async (resource, item) => {
+      if (!window.confirm(t('confirmDelete'))) return false;
+      try {
+        await api.remove(resource, item.id);
+        setForm(null);
+        flash(t('deleted'));
+        await load();
+        return true;
+      } catch (e) {
+        handleError(e);
+        return false;
+      }
+    },
+    [flash, handleError, load, t],
+  );
 
   const toggleLang = () => setLang((l) => (l === 'am' ? 'en' : 'am'));
 
@@ -108,6 +124,9 @@ export default function App() {
   }
 
   const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent) && !window.navigator.standalone;
+  const byOwner = (rows) => (ownerFilter === 'all' ? rows : rows.filter((r) => r.owner_id === ownerFilter));
+  const defaultOwner = ownerFilter === 'all' ? owners[0]?.id : ownerFilter;
+  const shared = { t, lang, owners, ownerFilter, setOwnerFilter, loading };
 
   return (
     <div className="app">
@@ -137,55 +156,54 @@ export default function App() {
           <button className="chip" onClick={toggleLang}>
             {t('language')}
           </button>
-          <button
-            className="chip"
-            aria-label={t('logout')}
-            title={t('logout')}
-            onClick={() => {
-              api.logout();
-              setAuthed(false);
-            }}
-          >
-            🚪
-          </button>
         </div>
       </header>
 
       {offline && <div className="banner">{t('offline')}</div>}
 
       <main className="content">
-        {tab === 'home' ? (
-          <Dashboard
+        {tab === 'home' && (
+          <Dashboard {...shared} records={byOwner(records)} allRecords={records} types={types} onOpen={(item) => setForm({ kind: 'record', item })} />
+        )}
+        {tab === 'assets' && <Assets {...shared} assets={byOwner(assets)} onOpen={(item) => setForm({ kind: 'asset', item })} />}
+        {tab === 'settings' && (
+          <Settings
             t={t}
             lang={lang}
-            records={records}
-            assets={assets}
-            loading={loading}
-            onOpen={(item) => setForm({ kind: 'record', item })}
+            owners={owners}
+            types={types}
+            onSave={(resource, data) => save(resource, data, { close: false })}
+            onDelete={del}
+            onLogout={() => {
+              api.logout();
+              setAuthed(false);
+            }}
           />
-        ) : (
-          <Assets t={t} lang={lang} assets={assets} loading={loading} onOpen={(item) => setForm({ kind: 'asset', item })} />
         )}
       </main>
 
-      <button
-        className="fab"
-        aria-label={tab === 'home' ? t('newRecord') : t('newAsset')}
-        onClick={() => setForm({ kind: tab === 'home' ? 'record' : 'asset', item: null })}
-        disabled={offline}
-      >
-        +
-      </button>
+      {tab !== 'settings' && (
+        <button
+          className="fab"
+          aria-label={tab === 'home' ? t('newRecord') : t('newAsset')}
+          onClick={() => setForm({ kind: tab === 'home' ? 'record' : 'asset', item: null })}
+          disabled={offline || !owners.length}
+        >
+          +
+        </button>
+      )}
 
       <nav className="bottomnav">
-        <button className={tab === 'home' ? 'active' : ''} onClick={() => setTab('home')}>
-          <span className="nav-icon">🐄</span>
-          {t('home')}
-        </button>
-        <button className={tab === 'assets' ? 'active' : ''} onClick={() => setTab('assets')}>
-          <span className="nav-icon">🏠</span>
-          {t('assets')}
-        </button>
+        {[
+          ['home', '🐄', t('livestock')],
+          ['assets', '🏠', t('assets')],
+          ['settings', '⚙️', t('settings')],
+        ].map(([key, icon, label]) => (
+          <button key={key} className={tab === key ? 'active' : ''} onClick={() => setTab(key)}>
+            <span className="nav-icon">{icon}</span>
+            {label}
+          </button>
+        ))}
       </nav>
 
       {form?.kind === 'record' && (
@@ -193,10 +211,13 @@ export default function App() {
           t={t}
           lang={lang}
           item={form.item}
+          owners={owners}
+          types={types}
+          defaultOwner={defaultOwner}
           locations={[...new Set(records.map((r) => r.location))]}
           receivers={[...new Set(records.map((r) => r.receiver))]}
-          onSave={(d) => save('record', d)}
-          onDelete={(i) => del('record', i)}
+          onSave={(d) => save('records', d)}
+          onDelete={(i) => del('records', i)}
           onClose={() => setForm(null)}
         />
       )}
@@ -204,9 +225,11 @@ export default function App() {
         <AssetForm
           t={t}
           item={form.item}
+          owners={owners}
+          defaultOwner={defaultOwner}
           locations={[...new Set([...assets.map((a) => a.location), ...records.map((r) => r.location)])]}
-          onSave={(d) => save('asset', d)}
-          onDelete={(i) => del('asset', i)}
+          onSave={(d) => save('assets', d)}
+          onDelete={(i) => del('assets', i)}
           onClose={() => setForm(null)}
         />
       )}
